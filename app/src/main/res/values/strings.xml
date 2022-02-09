@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Music Mela</string>
+    <string name="Rate_us_text">Please rate us on playstore.\nIt helps us doing even better!</string>
+    <string name="hindi_details"><![CDATA[Top Hindi Slowed & Reverb Music Collection\n Enjoy the Music!]]></string>
+    <string name="hindi_title">Hindi</string>
+    <string name="aashiqui_aa_gaye">Aashiqui Aa Gaye</string>
+    <string name="banjaara">Banjaara</string>
+    <string name="barrish">Barrish</string>
+    <string name="be_intehaan">Be Intehaan</string>
+    <string name="chale_aana">Chale Aana</string>
+    <string name="dil_ko_karar_aaya">Dil Ko Karar Aaya</string>
+    <string name="falak_tak">Falak Tak</string>
+    <string name="hasi_ban_gaye">Hasi Ban Gaye</string>
+    <string name="hawayein">Hawayein</string>
+    <string name="hosanna">Hosanna</string>
+    <string name="ijazat">Ijazat</string>
+    <string name="ishq_sufiyana">Ishq Sufiyana</string>
+    <string name="jeena_jeena">Jeena Jeena</string>
+    <string name="kal_ho_na_hoo">Kal Ho Na Hoo</string>
+    <string name="kaun_tujhe">Kaun Tujhe</string>
+</resources>

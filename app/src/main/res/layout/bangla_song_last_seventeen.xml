@@ -1,0 +1,962 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#ECF0F3"
+    android:id="@+id/banglaSongLastSeventeen">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:orientation="vertical">
+
+            <soup.neumorphism.NeumorphCardView
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                style="@style/Widget.Neumorph.CardView">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:weightSum="4"
+                    android:orientation="horizontal">
+
+                    <ImageView
+                        android:layout_width="0dp"
+                        android:layout_height="match_parent"
+                        android:src="@drawable/majhe_majhe_tobo_dekhai_pai"
+                        android:scaleType="centerCrop"
+                        android:layout_weight="1">
+
+
+                    </ImageView>
+
+                    <TextView
+                        android:layout_width="0dp"
+                        android:layout_height="match_parent"
+                        android:layout_margin="5dp"
+                        android:layout_weight="2"
+                        android:fontFamily="@font/capriola"
+                        android:gravity="center"
+                        android:maxLines="2"
+                        android:text="Majhe Majhe Tobo Dekha Pai"
+                        android:padding="5dp"
+                        android:textColor="@color/black"
+                        android:textSize="16sp">
+
+
+                    </TextView>
+
+                    <ImageView
+                        android:id="@+id/playButtonBangla16"
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:src="@drawable/play_button"
+                        android:padding="12dp"
+                        android:tag="NotPlaying"
+                        android:layout_gravity="center_vertical"
+                        android:layout_weight="1">
+                    </ImageView>
+
+
+
+                </LinearLayout>
+
+
+
+            </soup.neumorphism.NeumorphCardView>
+
+            <soup.neumorphism.NeumorphCardView
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                style="@style/Widget.Neumorph.CardView">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:weightSum="4"
+                    android:orientation="horizontal">
+
+                    <ImageView
+                        android:layout_width="0dp"
+                        android:layout_height="match_parent"
+                        android:src="@drawable/tumi_chaile_bristy"
+                        android:scaleType="centerCrop"
+                        android:layout_weight="1">
+
+
+                    </ImageView>
+
+                    <TextView
+                        android:layout_width="0dp"
+                        android:layout_height="match_parent"
+                        android:layout_margin="5dp"
+                        android:layout_weight="2"
+                        android:fontFamily="@font/capriola"
+                        android:gravity="center"
+                        android:maxLines="2"
+                        android:text="Tumi Chaile Bristy"
+                        android:padding="5dp"
+                        android:textColor="@color/black"
+                        android:textSize="16sp">
+
+
+                    </TextView>
+
+                    <ImageView
+                        android:id="@+id/playButtonBangla17"
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:src="@drawable/play_button"
+                        android:padding="12dp"
+                        android:tag="NotPlaying"
+                        android:layout_gravity="center_vertical"
+                        android:layout_weight="1">
+                    </ImageView>
+
+
+                </LinearLayout>
+
+
+
+            </soup.neumorphism.NeumorphCardView>
+
+            <soup.neumorphism.NeumorphCardView
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                style="@style/Widget.Neumorph.CardView">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:weightSum="4"
+                    android:orientation="horizontal">
+
+                    <ImageView
+                        android:layout_width="0dp"
+                        android:layout_height="match_parent"
+                        android:src="@drawable/mombati"
+                        android:scaleType="centerCrop"
+                        android:layout_weight="1">
+
+
+                    </ImageView>
+
+                    <TextView
+                        android:layout_width="0dp"
+                        android:layout_height="match_parent"
+                        android:layout_margin="5dp"
+                        android:layout_weight="2"
+                        android:fontFamily="@font/capriola"
+                        android:gravity="center"
+                        android:maxLines="2"
+                        android:text="Mombati"
+                        android:padding="5dp"
+                        android:textColor="@color/black"
+                        android:textSize="16sp">
+
+
+                    </TextView>
+
+                    <ImageView
+                        android:id="@+id/playButtonBangla18"
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:src="@drawable/play_button"
+                        android:padding="12dp"
+                        android:tag="NotPlaying"
+                        android:layout_gravity="center_vertical"
+                        android:layout_weight="1">
+                    </ImageView>
+
+
+                </LinearLayout>
+
+
+
+            </soup.neumorphism.NeumorphCardView>
+
+            <soup.neumorphism.NeumorphCardView
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                style="@style/Widget.Neumorph.CardView">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:weightSum="4"
+                    android:orientation="horizontal">
+
+                    <ImageView
+                        android:layout_width="0dp"
+                        android:layout_height="match_parent"
+                        android:src="@drawable/monta_obaddho"
+                        android:scaleType="centerCrop"
+                        android:layout_weight="1">
+
+
+                    </ImageView>
+
+                    <TextView
+                        android:layout_width="0dp"
+                        android:layout_height="match_parent"
+                        android:layout_margin="5dp"
+                        android:layout_weight="2"
+                        android:fontFamily="@font/capriola"
+                        android:gravity="center"
+                        android:maxLines="2"
+                        android:text="Monta Obaddho"
+                        android:padding="5dp"
+                        android:textColor="@color/black"
+                        android:textSize="16sp">
+
+
+                    </TextView>
+
+                    <ImageView
+                        android:id="@+id/playButtonBangla19"
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:src="@drawable/play_button"
+                        android:padding="12dp"
+                        android:tag="NotPlaying"
+                        android:layout_gravity="center_vertical"
+                        android:layout_weight="1">
+                    </ImageView>
+
+
+                </LinearLayout>
+
+
+
+            </soup.neumorphism.NeumorphCardView>
+
+            <soup.neumorphism.NeumorphCardView
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                style="@style/Widget.Neumorph.CardView">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:weightSum="4"
+                    android:orientation="horizontal">
+
+                    <ImageView
+                        android:layout_width="0dp"
+                        android:layout_height="match_parent"
+                        android:src="@drawable/aj_raate_kono_rupkotha_nei"
+                        android:scaleType="centerCrop"
+                        android:layout_weight="1">
+
+
+                    </ImageView>
+
+                    <TextView
+                        android:layout_width="0dp"
+                        android:layout_height="match_parent"
+                        android:layout_margin="5dp"
+                        android:layout_weight="2"
+                        android:fontFamily="@font/capriola"
+                        android:gravity="center"
+                        android:maxLines="2"
+                        android:text="Aj Raate Kono Rupkotha Nei"
+                        android:padding="5dp"
+                        android:textColor="@color/black"
+                        android:textSize="16sp">
+
+
+                    </TextView>
+
+                    <ImageView
+                        android:id="@+id/playButtonBangla20"
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:src="@drawable/play_button"
+                        android:padding="12dp"
+                        android:tag="NotPlaying"
+                        android:layout_gravity="center_vertical"
+                        android:layout_weight="1">
+                    </ImageView>
+
+
+                </LinearLayout>
+
+
+
+            </soup.neumorphism.NeumorphCardView>
+
+            <soup.neumorphism.NeumorphCardView
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                style="@style/Widget.Neumorph.CardView">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:weightSum="4"
+                    android:orientation="horizontal">
+
+                    <ImageView
+                        android:layout_width="0dp"
+                        android:layout_height="match_parent"
+                        android:src="@drawable/oniket_prantor"
+                        android:scaleType="centerCrop"
+                        android:layout_weight="1">
+
+
+                    </ImageView>
+
+                    <TextView
+                        android:layout_width="0dp"
+                        android:layout_height="match_parent"
+                        android:layout_margin="5dp"
+                        android:layout_weight="2"
+                        android:fontFamily="@font/capriola"
+                        android:gravity="center"
+                        android:maxLines="2"
+                        android:text="Oniket Prantor"
+                        android:padding="5dp"
+                        android:textColor="@color/black"
+                        android:textSize="16sp">
+
+
+                    </TextView>
+
+                    <ImageView
+                        android:id="@+id/playButtonBangla21"
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:src="@drawable/play_button"
+                        android:padding="12dp"
+                        android:tag="NotPlaying"
+                        android:layout_gravity="center_vertical"
+                        android:layout_weight="1">
+                    </ImageView>
+
+
+                </LinearLayout>
+
+
+
+            </soup.neumorphism.NeumorphCardView>
+
+            <soup.neumorphism.NeumorphCardView
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                style="@style/Widget.Neumorph.CardView">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:weightSum="4"
+                    android:orientation="horizontal">
+
+                    <ImageView
+                        android:layout_width="0dp"
+                        android:layout_height="match_parent"
+                        android:src="@drawable/oviman"
+                        android:scaleType="centerCrop"
+                        android:layout_weight="1">
+
+
+                    </ImageView>
+
+                    <TextView
+                        android:layout_width="0dp"
+                        android:layout_height="match_parent"
+                        android:layout_margin="5dp"
+                        android:layout_weight="2"
+                        android:fontFamily="@font/capriola"
+                        android:gravity="center"
+                        android:maxLines="2"
+                        android:text="Oviman"
+                        android:padding="5dp"
+                        android:textColor="@color/black"
+                        android:textSize="16sp">
+
+
+                    </TextView>
+
+                    <ImageView
+                        android:id="@+id/playButtonBangla22"
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:src="@drawable/play_button"
+                        android:padding="12dp"
+                        android:tag="NotPlaying"
+                        android:layout_gravity="center_vertical"
+                        android:layout_weight="1">
+                    </ImageView>
+
+
+                </LinearLayout>
+
+
+
+            </soup.neumorphism.NeumorphCardView>
+
+            <soup.neumorphism.NeumorphCardView
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                style="@style/Widget.Neumorph.CardView">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:weightSum="4"
+                    android:orientation="horizontal">
+
+                    <ImageView
+                        android:layout_width="0dp"
+                        android:layout_height="match_parent"
+                        android:src="@drawable/rupkothar_jogote"
+                        android:scaleType="centerCrop"
+                        android:layout_weight="1">
+
+
+                    </ImageView>
+
+                    <TextView
+                        android:layout_width="0dp"
+                        android:layout_height="match_parent"
+                        android:layout_margin="5dp"
+                        android:layout_weight="2"
+                        android:fontFamily="@font/capriola"
+                        android:gravity="center"
+                        android:maxLines="2"
+                        android:text="Rupkothar Jogote"
+                        android:padding="5dp"
+                        android:textColor="@color/black"
+                        android:textSize="16sp">
+
+
+                    </TextView>
+
+                    <ImageView
+                        android:id="@+id/playButtonBangla23"
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:src="@drawable/play_button"
+                        android:padding="12dp"
+                        android:tag="NotPlaying"
+                        android:layout_gravity="center_vertical"
+                        android:layout_weight="1">
+                    </ImageView>
+
+
+                </LinearLayout>
+
+
+
+            </soup.neumorphism.NeumorphCardView>
+
+            <soup.neumorphism.NeumorphCardView
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                style="@style/Widget.Neumorph.CardView">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:weightSum="4"
+                    android:orientation="horizontal">
+
+                    <ImageView
+                        android:layout_width="0dp"
+                        android:layout_height="match_parent"
+                        android:src="@drawable/she_ki_boshe_ache"
+                        android:scaleType="centerCrop"
+                        android:layout_weight="1">
+
+
+                    </ImageView>
+
+                    <TextView
+                        android:layout_width="0dp"
+                        android:layout_height="match_parent"
+                        android:layout_margin="5dp"
+                        android:layout_weight="2"
+                        android:fontFamily="@font/capriola"
+                        android:gravity="center"
+                        android:maxLines="2"
+                        android:text="She Ki Bose Ache"
+                        android:padding="5dp"
+                        android:textColor="@color/black"
+                        android:textSize="16sp">
+
+
+                    </TextView>
+
+                    <ImageView
+                        android:id="@+id/playButtonBangla24"
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:src="@drawable/play_button"
+                        android:padding="12dp"
+                        android:tag="NotPlaying"
+                        android:layout_gravity="center_vertical"
+                        android:layout_weight="1">
+                    </ImageView>
+
+
+                </LinearLayout>
+
+
+
+            </soup.neumorphism.NeumorphCardView>
+
+            <soup.neumorphism.NeumorphCardView
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                style="@style/Widget.Neumorph.CardView">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:weightSum="4"
+                    android:orientation="horizontal">
+
+                    <ImageView
+                        android:layout_width="0dp"
+                        android:layout_height="match_parent"
+                        android:src="@drawable/sesh_kanna"
+                        android:scaleType="centerCrop"
+                        android:layout_weight="1">
+
+
+                    </ImageView>
+
+                    <TextView
+                        android:layout_width="0dp"
+                        android:layout_height="match_parent"
+                        android:layout_margin="5dp"
+                        android:layout_weight="2"
+                        android:fontFamily="@font/capriola"
+                        android:gravity="center"
+                        android:maxLines="2"
+                        android:text="Sesh Kanna"
+                        android:padding="5dp"
+                        android:textColor="@color/black"
+                        android:textSize="16sp">
+
+
+                    </TextView>
+
+                    <ImageView
+                        android:id="@+id/playButtonBangla25"
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:src="@drawable/play_button"
+                        android:padding="12dp"
+                        android:tag="NotPlaying"
+                        android:layout_gravity="center_vertical"
+                        android:layout_weight="1">
+                    </ImageView>
+
+
+                </LinearLayout>
+
+
+
+            </soup.neumorphism.NeumorphCardView>
+
+            <soup.neumorphism.NeumorphCardView
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                style="@style/Widget.Neumorph.CardView">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:weightSum="4"
+                    android:orientation="horizontal">
+
+                    <ImageView
+                        android:layout_width="0dp"
+                        android:layout_height="match_parent"
+                        android:src="@drawable/she_ki_jane"
+                        android:scaleType="centerCrop"
+                        android:layout_weight="1">
+
+
+                    </ImageView>
+
+                    <TextView
+                        android:layout_width="0dp"
+                        android:layout_height="match_parent"
+                        android:layout_margin="5dp"
+                        android:layout_weight="2"
+                        android:fontFamily="@font/capriola"
+                        android:gravity="center"
+                        android:maxLines="2"
+                        android:text="She Ki Jane"
+                        android:padding="5dp"
+                        android:textColor="@color/black"
+                        android:textSize="16sp">
+
+
+                    </TextView>
+
+                    <ImageView
+                        android:id="@+id/playButtonBangla26"
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:src="@drawable/play_button"
+                        android:padding="12dp"
+                        android:tag="NotPlaying"
+                        android:layout_gravity="center_vertical"
+                        android:layout_weight="1">
+                    </ImageView>
+
+
+                </LinearLayout>
+
+
+
+            </soup.neumorphism.NeumorphCardView>
+
+            <soup.neumorphism.NeumorphCardView
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                style="@style/Widget.Neumorph.CardView">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:weightSum="4"
+                    android:orientation="horizontal">
+
+                    <ImageView
+                        android:layout_width="0dp"
+                        android:layout_height="match_parent"
+                        android:src="@drawable/shironamhin"
+                        android:scaleType="centerCrop"
+                        android:layout_weight="1">
+
+
+                    </ImageView>
+
+                    <TextView
+                        android:layout_width="0dp"
+                        android:layout_height="match_parent"
+                        android:layout_margin="5dp"
+                        android:layout_weight="2"
+                        android:fontFamily="@font/capriola"
+                        android:gravity="center"
+                        android:maxLines="2"
+                        android:text="Shironamhin"
+                        android:padding="5dp"
+                        android:textColor="@color/black"
+                        android:textSize="16sp">
+
+
+                    </TextView>
+
+                    <ImageView
+                        android:id="@+id/playButtonBangla27"
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:src="@drawable/play_button"
+                        android:padding="12dp"
+                        android:tag="NotPlaying"
+                        android:layout_gravity="center_vertical"
+                        android:layout_weight="1">
+                    </ImageView>
+
+
+                </LinearLayout>
+
+
+
+            </soup.neumorphism.NeumorphCardView>
+
+            <soup.neumorphism.NeumorphCardView
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                style="@style/Widget.Neumorph.CardView">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:weightSum="4"
+                    android:orientation="horizontal">
+
+                    <ImageView
+                        android:layout_width="0dp"
+                        android:layout_height="match_parent"
+                        android:src="@drawable/bedona_shunno"
+                        android:scaleType="centerCrop"
+                        android:layout_weight="1">
+
+
+                    </ImageView>
+
+                    <TextView
+                        android:layout_width="0dp"
+                        android:layout_height="match_parent"
+                        android:layout_margin="5dp"
+                        android:layout_weight="2"
+                        android:fontFamily="@font/capriola"
+                        android:gravity="center"
+                        android:maxLines="2"
+                        android:text="Bedona"
+                        android:padding="5dp"
+                        android:textColor="@color/black"
+                        android:textSize="16sp">
+
+
+                    </TextView>
+
+                    <ImageView
+                        android:id="@+id/playButtonBangla28"
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:src="@drawable/play_button"
+                        android:padding="12dp"
+                        android:tag="NotPlaying"
+                        android:layout_gravity="center_vertical"
+                        android:layout_weight="1">
+                    </ImageView>
+
+
+                </LinearLayout>
+
+
+
+            </soup.neumorphism.NeumorphCardView>
+
+            <soup.neumorphism.NeumorphCardView
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                style="@style/Widget.Neumorph.CardView">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:weightSum="4"
+                    android:orientation="horizontal">
+
+                    <ImageView
+                        android:layout_width="0dp"
+                        android:layout_height="match_parent"
+                        android:src="@drawable/utshorgo"
+                        android:scaleType="centerCrop"
+                        android:layout_weight="1">
+
+
+                    </ImageView>
+
+                    <TextView
+                        android:layout_width="0dp"
+                        android:layout_height="match_parent"
+                        android:layout_margin="5dp"
+                        android:layout_weight="2"
+                        android:fontFamily="@font/capriola"
+                        android:gravity="center"
+                        android:maxLines="2"
+                        android:text="Utsorgho"
+                        android:padding="5dp"
+                        android:textColor="@color/black"
+                        android:textSize="16sp">
+
+
+                    </TextView>
+
+                    <ImageView
+                        android:id="@+id/playButtonBangla29"
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:src="@drawable/play_button"
+                        android:padding="12dp"
+                        android:tag="NotPlaying"
+                        android:layout_gravity="center_vertical"
+                        android:layout_weight="1">
+                    </ImageView>
+
+
+                </LinearLayout>
+
+
+
+            </soup.neumorphism.NeumorphCardView>
+
+            <soup.neumorphism.NeumorphCardView
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                style="@style/Widget.Neumorph.CardView">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:weightSum="4"
+                    android:orientation="horizontal">
+
+                    <ImageView
+                        android:layout_width="0dp"
+                        android:layout_height="match_parent"
+                        android:src="@drawable/tomar_ghore_bosot_kore_koyjona"
+                        android:scaleType="centerCrop"
+                        android:layout_weight="1">
+
+
+                    </ImageView>
+
+                    <TextView
+                        android:layout_width="0dp"
+                        android:layout_height="match_parent"
+                        android:layout_margin="5dp"
+                        android:layout_weight="2"
+                        android:fontFamily="@font/capriola"
+                        android:gravity="center"
+                        android:maxLines="2"
+                        android:text="Tomar Ghore Bosot Kore Koyjona"
+                        android:padding="5dp"
+                        android:textColor="@color/black"
+                        android:textSize="16sp">
+
+
+                    </TextView>
+
+                    <ImageView
+                        android:id="@+id/playButtonBangla30"
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:src="@drawable/play_button"
+                        android:padding="12dp"
+                        android:tag="NotPlaying"
+                        android:layout_gravity="center_vertical"
+                        android:layout_weight="1">
+                    </ImageView>
+
+
+                </LinearLayout>
+
+
+
+            </soup.neumorphism.NeumorphCardView>
+
+            <soup.neumorphism.NeumorphCardView
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                style="@style/Widget.Neumorph.CardView">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:weightSum="4"
+                    android:orientation="horizontal">
+
+                    <ImageView
+                        android:layout_width="0dp"
+                        android:layout_height="match_parent"
+                        android:src="@drawable/tomay_hrid_majhare_rakhebo"
+                        android:scaleType="centerCrop"
+                        android:layout_weight="1">
+
+
+                    </ImageView>
+
+                    <TextView
+                        android:layout_width="0dp"
+                        android:layout_height="match_parent"
+                        android:layout_margin="5dp"
+                        android:layout_weight="2"
+                        android:fontFamily="@font/capriola"
+                        android:gravity="center"
+                        android:maxLines="2"
+                        android:text="Tomay Hridmajhare Rakhebo"
+                        android:padding="5dp"
+                        android:textColor="@color/black"
+                        android:textSize="16sp">
+
+
+                    </TextView>
+
+                    <ImageView
+                        android:id="@+id/playButtonBangla31"
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:src="@drawable/play_button"
+                        android:padding="12dp"
+                        android:tag="NotPlaying"
+                        android:layout_gravity="center_vertical"
+                        android:layout_weight="1">
+                    </ImageView>
+
+
+                </LinearLayout>
+
+
+
+            </soup.neumorphism.NeumorphCardView>
+
+            <soup.neumorphism.NeumorphCardView
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                style="@style/Widget.Neumorph.CardView">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:weightSum="4"
+                    android:orientation="horizontal">
+
+                    <ImageView
+                        android:layout_width="0dp"
+                        android:layout_height="match_parent"
+                        android:src="@drawable/tumi_akash_er_buke"
+                        android:scaleType="centerCrop"
+                        android:layout_weight="1">
+
+
+                    </ImageView>
+
+                    <TextView
+                        android:layout_width="0dp"
+                        android:layout_height="match_parent"
+                        android:layout_margin="5dp"
+                        android:layout_weight="2"
+                        android:fontFamily="@font/capriola"
+                        android:gravity="center"
+                        android:maxLines="2"
+                        android:text="Tumi Akasher Buke"
+                        android:padding="5dp"
+                        android:textColor="@color/black"
+                        android:textSize="16sp">
+
+
+                    </TextView>
+
+                    <ImageView
+                        android:id="@+id/playButtonBangla32"
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:src="@drawable/play_button"
+                        android:padding="12dp"
+                        android:tag="NotPlaying"
+                        android:layout_gravity="center_vertical"
+                        android:layout_weight="1">
+                    </ImageView>
+
+
+                </LinearLayout>
+
+
+
+            </soup.neumorphism.NeumorphCardView>
+
+
+        </LinearLayout>
+
+
+
+    </ScrollView>
+
+
+</LinearLayout>

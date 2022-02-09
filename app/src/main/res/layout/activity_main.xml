@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/main_frame_two"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+
+    <ImageView
+        android:id="@+id/icon"
+        android:layout_width="wrap_content"
+        android:layout_height="64dp"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="50dp"
+        android:src="@drawable/headset_one">
+
+
+    </ImageView>
+
+    <TextView
+        android:id="@+id/titleText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/icon"
+        android:layout_marginBottom="60dp"
+        android:fontFamily="@font/baloo_bhai"
+        android:padding="10dp"
+        android:text="Music Mela"
+        android:textAlignment="center"
+        android:textColor="@color/background"
+        android:textSize="28sp">
+
+    </TextView>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/titleText">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_gravity="center_horizontal"
+            android:gravity="center"
+            android:orientation="vertical">
+
+            <GridLayout
+                android:id="@+id/gridView"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:columnCount="2"
+                android:rowCount="2">
+
+
+                <soup.neumorphism.NeumorphCardView
+                    android:layout_width="160dp"
+                    android:layout_height="160dp"
+                    android:layout_row="0"
+                    android:layout_column="0">
+
+                    <LinearLayout
+                        android:id="@+id/bangla_songs"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_gravity="center"
+                        android:gravity="center"
+                        android:orientation="vertical">
+
+                        <ImageView
+                            android:layout_width="50dp"
+                            android:layout_height="50dp"
+                            android:src="@drawable/music_icon">
+
+                        </ImageView>
+
+
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_margin="5dp"
+                            android:fontFamily="@font/baloo_bhai"
+                            android:text="Bangla"
+                            android:textAlignment="center"
+                            android:textColor="@color/black"
+                            android:textSize="20sp">
+
+                        </TextView>
+
+                    </LinearLayout>
+
+
+                </soup.neumorphism.NeumorphCardView>
+
+                <soup.neumorphism.NeumorphCardView
+                    android:layout_width="160dp"
+                    android:layout_height="160dp"
+                    android:layout_row="0"
+                    android:layout_column="1"
+                    android:layout_gravity="center">
+
+                    <LinearLayout
+                        android:id="@+id/hindi_songs"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:gravity="center"
+                        android:orientation="vertical">
+
+                        <ImageView
+                            android:layout_width="50dp"
+                            android:layout_height="50dp"
+                            android:src="@drawable/music_icon">
+
+                        </ImageView>
+
+
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_margin="5dp"
+                            android:fontFamily="@font/baloo_bhai"
+                            android:text="Hindi"
+                            android:textAlignment="center"
+                            android:textColor="@color/black"
+                            android:textSize="20sp">
+
+                        </TextView>
+
+                    </LinearLayout>
+
+
+                </soup.neumorphism.NeumorphCardView>
+
+                <soup.neumorphism.NeumorphCardView
+                    android:layout_width="160dp"
+                    android:layout_height="160dp"
+                    android:layout_row="1"
+                    android:layout_column="0"
+                    android:layout_gravity="center">
+
+                    <LinearLayout
+                        android:id="@+id/english_songs"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:gravity="center"
+                        android:orientation="vertical">
+
+                        <ImageView
+                            android:layout_width="50dp"
+                            android:layout_height="50dp"
+                            android:src="@drawable/music_icon">
+
+                        </ImageView>
+
+
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_margin="5dp"
+                            android:fontFamily="@font/baloo_bhai"
+                            android:text="English"
+                            android:textAlignment="center"
+                            android:textColor="@color/black"
+                            android:textSize="20sp">
+
+                        </TextView>
+
+                    </LinearLayout>
+
+
+                </soup.neumorphism.NeumorphCardView>
+
+                <soup.neumorphism.NeumorphCardView
+                    android:layout_width="160dp"
+                    android:layout_height="160dp"
+                    android:layout_row="1"
+                    android:layout_column="1"
+                    android:layout_gravity="center">
+
+                    <LinearLayout
+                        android:id="@+id/arabic_songs"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:gravity="center"
+                        android:orientation="vertical">
+
+                        <ImageView
+                            android:layout_width="50dp"
+                            android:layout_height="50dp"
+                            android:src="@drawable/music_icon">
+
+                        </ImageView>
+
+
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_margin="5dp"
+                            android:fontFamily="@font/baloo_bhai"
+                            android:text="Arabic"
+                            android:textAlignment="center"
+                            android:textColor="@color/black"
+                            android:textSize="20sp">
+
+                        </TextView>
+
+                    </LinearLayout>
+
+
+                </soup.neumorphism.NeumorphCardView>
+
+
+            </GridLayout>
+
+            <soup.neumorphism.NeumorphCardView
+                android:id="@+id/rate_us_button"
+                android:layout_width="match_parent"
+                android:layout_height="120dp"
+                android:layout_marginStart="30dp"
+                android:layout_marginEnd="30dp">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:gravity="center"
+                    android:orientation="horizontal">
+
+                    <ImageView
+                        android:layout_width="62dp"
+                        android:layout_height="62dp"
+                        android:layout_gravity="center"
+                        android:layout_marginEnd="10dp"
+                        android:src="@drawable/thank_you">
+
+
+                    </ImageView>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:padding="5dp"
+                        android:text="@string/Rate_us_text"
+                        android:textColor="@color/black"
+                        android:textSize="16sp">
+
+
+                    </TextView>
+
+                </LinearLayout>
+
+            </soup.neumorphism.NeumorphCardView>
+
+        </LinearLayout>
+
+
+    </ScrollView>
+
+
+    <RelativeLayout
+        android:id="@+id/AdSection"
+        android:layout_width="match_parent"
+        android:layout_height="65dp"
+        android:layout_alignParentBottom="true"
+        android:background="@color/background">
+
+
+    </RelativeLayout>
+
+
+</RelativeLayout>
