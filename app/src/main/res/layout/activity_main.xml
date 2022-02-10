@@ -7,6 +7,19 @@
     android:orientation="vertical"
     tools:context=".MainActivity">
 
+    <ImageView
+        android:id="@+id/paymentIcon"
+        android:layout_width="64dp"
+        android:layout_height="64dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:padding="5dp"
+        android:src="@drawable/payment"
+        tools:ignore="ContentDescription">
+
+
+    </ImageView>
+
 
     <ImageView
         android:id="@+id/icon"
@@ -214,24 +227,26 @@
             </GridLayout>
 
             <soup.neumorphism.NeumorphCardView
-                android:id="@+id/rate_us_button"
                 android:layout_width="match_parent"
                 android:layout_height="120dp"
                 android:layout_marginStart="30dp"
                 android:layout_marginEnd="30dp">
 
                 <LinearLayout
+                    android:id="@+id/rate_us_button"
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
                     android:gravity="center"
-                    android:orientation="horizontal">
+                    android:orientation="horizontal"
+                    tools:ignore="UseCompoundDrawables">
 
                     <ImageView
                         android:layout_width="62dp"
                         android:layout_height="62dp"
                         android:layout_gravity="center"
                         android:layout_marginEnd="10dp"
-                        android:src="@drawable/thank_you">
+                        android:src="@drawable/thank_you"
+                        tools:ignore="ContentDescription">
 
 
                     </ImageView>

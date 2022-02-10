@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/main_frame_two"
+    android:orientation="vertical"
+    tools:context=".Payment.PaymentActivity">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        android:padding="10dp"
+        android:text="App Info"
+        android:textAlignment="center"
+        android:textColor="@color/white"
+        android:textSize="32sp"
+        android:textStyle="bold">
+
+
+    </TextView>
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/baloo_bhai"
+        android:padding="5dp"
+        android:text="@string/app_name"
+        android:textAlignment="center"
+        android:textColor="@color/white"
+        android:textSize="24sp">
+
+
+    </TextView>
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="120dp"
+        android:layout_marginRight="20dp"
+        android:padding="10dp"
+        android:text="@string/MusicMelaDetails"
+        android:textAlignment="center"
+        android:textColor="@color/halka_black"
+        android:textSize="17sp"
+        android:textStyle="bold">
+
+
+    </TextView>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="15dp"
+        android:padding="10dp"
+        android:text="@string/developer_info"
+        android:textAlignment="center"
+        android:textColor="@color/black"
+        android:textSize="15sp"
+        android:textStyle="bold">
+
+
+    </TextView>
+
+    <View
+        android:layout_width="220dp"
+        android:layout_height="3dp"
+        android:layout_gravity="center"
+        android:background="@color/purple_500"
+        android:padding="5dp">
+
+    </View>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="50dp"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:fontFamily="@font/capriola"
+            android:gravity="center"
+            android:text="@string/payme"
+            android:textAlignment="center"
+            android:textColor="@color/black"
+            android:textSize="16sp">
+
+        </TextView>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:layout_width="100dp"
+                android:layout_height="72dp"
+                android:src="@drawable/bkash_logo"
+                tools:ignore="ContentDescription">
+
+            </ImageView>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:gravity="center_vertical"
+                android:text="@string/phone_number"
+                android:textColor="@color/black"
+                android:textIsSelectable="true"
+                android:textSize="18sp"
+                android:textStyle="bold">
+
+
+            </TextView>
+
+        </LinearLayout>
+
+
+    </LinearLayout>
+
+
+</LinearLayout>

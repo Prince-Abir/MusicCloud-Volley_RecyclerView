@@ -18,4 +18,12 @@
     <string name="jeena_jeena">Jeena Jeena</string>
     <string name="kal_ho_na_hoo">Kal Ho Na Hoo</string>
     <string name="kaun_tujhe">Kaun Tujhe</string>
+    <string name="Splash_Title">Top Bengali,Hindi,English,Arabic Slowed and Reverb Lofi Music Collection!</string>
+
+    <string name="MusicMelaDetails">Music Mela is a light Music App.We Included Top Bengali,Hindi,Englis, Arabic slowed &amp; Reverb lofi Music in Music Mela App.Music Mela is very light because it fetch the songs from our database.So, The Internet must be connected.</string>
+    <string name="developer_info">Music Mela Designed and Developed by PrinceTechnSoft.Ltd\n CC Alright reserved by the Developer &amp; Team</string>
+
+    <string name="payme">Give me 20tk to add one more song!</string>
+    <string name="phone_number">+8801635593542</string>
+
 </resources>
