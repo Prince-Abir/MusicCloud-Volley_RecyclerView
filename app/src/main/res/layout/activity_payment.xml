@@ -5,7 +5,7 @@
     android:layout_height="match_parent"
     android:background="@drawable/main_frame_two"
     android:orientation="vertical"
-    tools:context=".Payment.PaymentActivity">
+    tools:context="com.app.musicmelamusicplayer.Payment.PaymentActivity">
 
     <TextView
         android:layout_width="match_parent"
@@ -42,12 +42,13 @@
         android:layout_marginLeft="20dp"
         android:layout_marginTop="120dp"
         android:layout_marginRight="20dp"
+        android:lineSpacingExtra="1sp"
         android:padding="10dp"
         android:text="@string/MusicMelaDetails"
-        android:textAlignment="center"
+       android:textAlignment="center"
+        android:fontFamily="@font/baloo_bhai"
         android:textColor="@color/halka_black"
-        android:textSize="17sp"
-        android:textStyle="bold">
+        android:textSize="17sp">
 
 
     </TextView>
@@ -90,6 +91,7 @@
             android:text="@string/payme"
             android:textAlignment="center"
             android:textColor="@color/black"
+            android:textStyle="bold|italic"
             android:textSize="16sp">
 
         </TextView>

@@ -8,7 +8,7 @@
     android:background="@color/white"
     android:gravity="center"
     android:orientation="vertical"
-    tools:context=".SplashScreen">
+    tools:context="com.app.musicmelamusicplayer.SplashScreen">
 
     <LinearLayout
         android:layout_width="match_parent"
@@ -22,10 +22,11 @@
             android:layout_width="match_parent"
             android:layout_height="72dp"
             android:src="@drawable/headset_one"
-            tools:ignore="ContentDescription"></ImageView>
+            tools:ignore="ContentDescription">
+
+        </ImageView>
 
         <TextView
-            android:id="@+id/appName"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_gravity="center_horizontal"
@@ -39,7 +40,6 @@
         </TextView>
 
         <TextView
-            android:id="@+id/detailText"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:fontFamily="@font/baloo_bhai"
@@ -54,7 +54,6 @@
     </LinearLayout>
 
     <com.airbnb.lottie.LottieAnimationView
-        android:id="@+id/animationView"
         android:layout_width="match_parent"
         android:layout_height="220dp"
         android:layout_gravity="center"

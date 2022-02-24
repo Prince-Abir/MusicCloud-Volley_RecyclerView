@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.app.musicplayer">
+    package="com.app.musicmelamusicplayer">
 
     <uses-permission android:name="android.permission.INTERNET" />
     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
@@ -9,16 +9,16 @@
     <application
         android:allowBackup="true"
         android:fullBackupOnly="true"
-        android:icon="@mipmap/ic_launcher"
+        android:icon="@mipmap/launcher_icon"
         android:label="@string/app_name"
-        android:roundIcon="@mipmap/ic_launcher_round"
+        android:roundIcon="@mipmap/launcher_icon_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.MusicPlayer">
 
 
         <!--        Payment Section-->
         <activity
-            android:name=".Payment.PaymentActivity"
+            android:name="com.app.musicmelamusicplayer.Payment.PaymentActivity"
             android:exported="false"
             android:theme="@style/custom_action_bar">
 
@@ -27,7 +27,7 @@
 
         <!-- This is Splash Activity & Launcher Activity -->
         <activity
-            android:name=".SplashScreen"
+            android:name="com.app.musicmelamusicplayer.SplashScreen"
             android:exported="true"
             android:theme="@style/custom_action_bar_splash_screen">
             <intent-filter>
@@ -40,25 +40,25 @@
 
         <!-- This is Hindi Song Section -->
         <activity
-            android:name=".AllSections.HindiSong"
+            android:name="com.app.musicmelamusicplayer.AllSections.HindiSong"
             android:exported="false"
-            android:parentActivityName=".MainActivity">
+            android:parentActivityName="com.app.musicmelamusicplayer.MainActivity">
 
         </activity>
 
 
         <!-- This is Bangla Song Section -->
         <activity
-            android:name=".AllSections.BanglaSong"
+            android:name="com.app.musicmelamusicplayer.AllSections.BanglaSong"
             android:exported="false"
-            android:parentActivityName=".MainActivity">
+            android:parentActivityName="com.app.musicmelamusicplayer.MainActivity">
 
         </activity>
 
 
         <!-- This is MainActivity -->
         <activity
-            android:name=".MainActivity"
+            android:name="com.app.musicmelamusicplayer.MainActivity"
             android:exported="false"
             android:theme="@style/custom_action_bar">
 

@@ -5,7 +5,7 @@
     android:layout_height="match_parent"
     android:background="@drawable/main_frame_two"
     android:orientation="vertical"
-    tools:context=".MainActivity">
+    tools:context="com.app.musicmelamusicplayer.MainActivity">
 
     <ImageView
         android:id="@+id/paymentIcon"
@@ -60,7 +60,6 @@
             android:orientation="vertical">
 
             <GridLayout
-                android:id="@+id/gridView"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:columnCount="2"
@@ -274,7 +273,6 @@
 
 
     <RelativeLayout
-        android:id="@+id/AdSection"
         android:layout_width="match_parent"
         android:layout_height="65dp"
         android:layout_alignParentBottom="true"

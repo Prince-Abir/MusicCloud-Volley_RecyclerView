@@ -6,7 +6,7 @@
     android:background="@drawable/main_frame_two"
     android:orientation="vertical"
     android:padding="10dp"
-    tools:context=".AllSections.BanglaSong">
+    tools:context="com.app.musicmelamusicplayer.AllSections.BanglaSong">
 
 
     <LinearLayout
@@ -33,7 +33,6 @@
         </TextView>
 
         <TextView
-            android:id="@+id/detailText"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:fontFamily="@font/baloo_bhai"
