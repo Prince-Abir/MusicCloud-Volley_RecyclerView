@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="#ECF0F3"
@@ -30,7 +31,7 @@
                         android:layout_height="match_parent"
                         android:layout_weight="1"
                         android:scaleType="centerCrop"
-                        android:src="@drawable/khamoshiyan">
+                        app:srcCompat="@drawable/khamoshiyan">
 
 
                     </ImageView>
@@ -58,8 +59,8 @@
                         android:layout_gravity="center_vertical"
                         android:layout_weight="1"
                         android:padding="12dp"
-                        android:src="@drawable/play_button"
-                        android:tag="NotPlaying">
+                        android:tag="NotPlaying"
+                        app:srcCompat="@drawable/play_button">
 
                     </ImageView>
 
@@ -85,7 +86,7 @@
                         android:layout_height="match_parent"
                         android:layout_weight="1"
                         android:scaleType="centerCrop"
-                        android:src="@drawable/kya_mujhe_pyaar_hai">
+                        app:srcCompat="@drawable/kya_mujhe_pyaar_hai">
 
 
                     </ImageView>
@@ -113,8 +114,8 @@
                         android:layout_gravity="center_vertical"
                         android:layout_weight="1"
                         android:padding="12dp"
-                        android:src="@drawable/play_button"
-                        android:tag="NotPlaying">
+                        android:tag="NotPlaying"
+                        app:srcCompat="@drawable/play_button">
 
                     </ImageView>
 
@@ -140,7 +141,7 @@
                         android:layout_height="match_parent"
                         android:layout_weight="1"
                         android:scaleType="centerCrop"
-                        android:src="@drawable/lag_ja_gale">
+                        app:srcCompat="@drawable/lag_ja_gale">
 
 
                     </ImageView>
@@ -168,8 +169,8 @@
                         android:layout_gravity="center_vertical"
                         android:layout_weight="1"
                         android:padding="12dp"
-                        android:src="@drawable/play_button"
-                        android:tag="NotPlaying">
+                        android:tag="NotPlaying"
+                        app:srcCompat="@drawable/play_button">
 
                     </ImageView>
 
@@ -195,7 +196,7 @@
                         android:layout_height="match_parent"
                         android:layout_weight="1"
                         android:scaleType="centerCrop"
-                        android:src="@drawable/main_rang_sharbaton_ka">
+                        app:srcCompat="@drawable/main_rang_sharbaton_ka">
 
 
                     </ImageView>
@@ -223,8 +224,8 @@
                         android:layout_gravity="center_vertical"
                         android:layout_weight="1"
                         android:padding="12dp"
-                        android:src="@drawable/play_button"
-                        android:tag="NotPlaying">
+                        android:tag="NotPlaying"
+                        app:srcCompat="@drawable/play_button">
 
                     </ImageView>
 
@@ -250,7 +251,7 @@
                         android:layout_height="match_parent"
                         android:layout_weight="1"
                         android:scaleType="centerCrop"
-                        android:src="@drawable/mast_magan">
+                        app:srcCompat="@drawable/mast_magan">
 
 
                     </ImageView>
@@ -278,8 +279,8 @@
                         android:layout_gravity="center_vertical"
                         android:layout_weight="1"
                         android:padding="12dp"
-                        android:src="@drawable/play_button"
-                        android:tag="NotPlaying">
+                        android:tag="NotPlaying"
+                        app:srcCompat="@drawable/play_button">
 
                     </ImageView>
 
@@ -305,7 +306,7 @@
                         android:layout_height="match_parent"
                         android:layout_weight="1"
                         android:scaleType="centerCrop"
-                        android:src="@drawable/mera_mann">
+                        app:srcCompat="@drawable/mera_mann">
 
 
                     </ImageView>
@@ -333,8 +334,8 @@
                         android:layout_gravity="center_vertical"
                         android:layout_weight="1"
                         android:padding="12dp"
-                        android:src="@drawable/play_button"
-                        android:tag="NotPlaying">
+                        android:tag="NotPlaying"
+                        app:srcCompat="@drawable/play_button">
 
                     </ImageView>
 
@@ -360,7 +361,7 @@
                         android:layout_height="match_parent"
                         android:layout_weight="1"
                         android:scaleType="centerCrop"
-                        android:src="@drawable/moh_moh_ke_dhaage">
+                        app:srcCompat="@drawable/moh_moh_ke_dhaage">
 
 
                     </ImageView>
@@ -388,8 +389,8 @@
                         android:layout_gravity="center_vertical"
                         android:layout_weight="1"
                         android:padding="12dp"
-                        android:src="@drawable/play_button"
-                        android:tag="NotPlaying">
+                        android:tag="NotPlaying"
+                        app:srcCompat="@drawable/play_button">
 
                     </ImageView>
 
@@ -415,7 +416,7 @@
                         android:layout_height="match_parent"
                         android:layout_weight="1"
                         android:scaleType="centerCrop"
-                        android:src="@drawable/phir_le_aaya_dil">
+                        app:srcCompat="@drawable/phir_le_aaya_dil">
 
 
                     </ImageView>
@@ -443,8 +444,8 @@
                         android:layout_gravity="center_vertical"
                         android:layout_weight="1"
                         android:padding="12dp"
-                        android:src="@drawable/play_button"
-                        android:tag="NotPlaying">
+                        android:tag="NotPlaying"
+                        app:srcCompat="@drawable/play_button">
 
                     </ImageView>
 
@@ -470,7 +471,7 @@
                         android:layout_height="match_parent"
                         android:layout_weight="1"
                         android:scaleType="centerCrop"
-                        android:src="@drawable/piya_o_re_piya">
+                        app:srcCompat="@drawable/piya_o_re_piya">
 
 
                     </ImageView>
@@ -498,8 +499,8 @@
                         android:layout_gravity="center_vertical"
                         android:layout_weight="1"
                         android:padding="12dp"
-                        android:src="@drawable/play_button"
-                        android:tag="NotPlaying">
+                        android:tag="NotPlaying"
+                        app:srcCompat="@drawable/play_button">
 
                     </ImageView>
 
@@ -525,7 +526,7 @@
                         android:layout_height="match_parent"
                         android:layout_weight="1"
                         android:scaleType="centerCrop"
-                        android:src="@drawable/raatan_lambiyan">
+                        app:srcCompat="@drawable/raatan_lambiyan">
 
 
                     </ImageView>
@@ -553,8 +554,8 @@
                         android:layout_gravity="center_vertical"
                         android:layout_weight="1"
                         android:padding="12dp"
-                        android:src="@drawable/play_button"
-                        android:tag="NotPlaying">
+                        android:tag="NotPlaying"
+                        app:srcCompat="@drawable/play_button">
 
 
                     </ImageView>
@@ -581,7 +582,7 @@
                         android:layout_height="match_parent"
                         android:layout_weight="1"
                         android:scaleType="centerCrop"
-                        android:src="@drawable/ranjha">
+                        app:srcCompat="@drawable/ranjha">
 
 
                     </ImageView>
@@ -609,8 +610,8 @@
                         android:layout_gravity="center_vertical"
                         android:layout_weight="1"
                         android:padding="12dp"
-                        android:src="@drawable/play_button"
-                        android:tag="NotPlaying">
+                        android:tag="NotPlaying"
+                        app:srcCompat="@drawable/play_button">
 
                     </ImageView>
 
@@ -636,7 +637,7 @@
                         android:layout_height="match_parent"
                         android:layout_weight="1"
                         android:scaleType="centerCrop"
-                        android:src="@drawable/saibo">
+                        app:srcCompat="@drawable/saibo">
 
 
                     </ImageView>
@@ -664,8 +665,8 @@
                         android:layout_gravity="center_vertical"
                         android:layout_weight="1"
                         android:padding="12dp"
-                        android:src="@drawable/play_button"
-                        android:tag="NotPlaying">
+                        android:tag="NotPlaying"
+                        app:srcCompat="@drawable/play_button">
 
                     </ImageView>
 
@@ -691,7 +692,7 @@
                         android:layout_height="match_parent"
                         android:layout_weight="1"
                         android:scaleType="centerCrop"
-                        android:src="@drawable/srivalli">
+                        app:srcCompat="@drawable/srivalli">
 
 
                     </ImageView>
@@ -719,8 +720,8 @@
                         android:layout_gravity="center_vertical"
                         android:layout_weight="1"
                         android:padding="12dp"
-                        android:src="@drawable/play_button"
-                        android:tag="NotPlaying">
+                        android:tag="NotPlaying"
+                        app:srcCompat="@drawable/play_button">
 
                     </ImageView>
 
@@ -746,7 +747,7 @@
                         android:layout_height="match_parent"
                         android:layout_weight="1"
                         android:scaleType="centerCrop"
-                        android:src="@drawable/subhanallah">
+                        app:srcCompat="@drawable/subhanallah">
 
 
                     </ImageView>
@@ -774,8 +775,8 @@
                         android:layout_gravity="center_vertical"
                         android:layout_weight="1"
                         android:padding="12dp"
-                        android:src="@drawable/play_button"
-                        android:tag="NotPlaying">
+                        android:tag="NotPlaying"
+                        app:srcCompat="@drawable/play_button">
 
                     </ImageView>
 
@@ -801,7 +802,7 @@
                         android:layout_height="match_parent"
                         android:layout_weight="1"
                         android:scaleType="centerCrop"
-                        android:src="@drawable/teri_mitti">
+                        app:srcCompat="@drawable/teri_mitti">
 
 
                     </ImageView>
@@ -829,8 +830,8 @@
                         android:layout_gravity="center_vertical"
                         android:layout_weight="1"
                         android:padding="12dp"
-                        android:src="@drawable/play_button"
-                        android:tag="NotPlaying">
+                        android:tag="NotPlaying"
+                        app:srcCompat="@drawable/play_button">
 
                     </ImageView>
 
@@ -856,7 +857,7 @@
                         android:layout_height="match_parent"
                         android:layout_weight="1"
                         android:scaleType="centerCrop"
-                        android:src="@drawable/tose_naina">
+                        app:srcCompat="@drawable/tose_naina">
 
 
                     </ImageView>
@@ -884,8 +885,8 @@
                         android:layout_gravity="center_vertical"
                         android:layout_weight="1"
                         android:padding="12dp"
-                        android:src="@drawable/play_button"
-                        android:tag="NotPlaying">
+                        android:tag="NotPlaying"
+                        app:srcCompat="@drawable/play_button">
 
                     </ImageView>
 
@@ -911,7 +912,7 @@
                         android:layout_height="match_parent"
                         android:layout_weight="1"
                         android:scaleType="centerCrop"
-                        android:src="@drawable/tujhe_kitna_chahne_lage">
+                        app:srcCompat="@drawable/tujhe_kitna_chahne_lage">
 
 
                     </ImageView>
@@ -939,8 +940,8 @@
                         android:layout_gravity="center_vertical"
                         android:layout_weight="1"
                         android:padding="12dp"
-                        android:src="@drawable/play_button"
-                        android:tag="NotPlaying">
+                        android:tag="NotPlaying"
+                        app:srcCompat="@drawable/play_button">
 
                     </ImageView>
 
@@ -966,7 +967,7 @@
                         android:layout_height="match_parent"
                         android:layout_weight="1"
                         android:scaleType="centerCrop"
-                        android:src="@drawable/tujhse_naraz_nahi">
+                        app:srcCompat="@drawable/tujhse_naraz_nahi">
 
 
                     </ImageView>
@@ -994,8 +995,8 @@
                         android:layout_gravity="center_vertical"
                         android:layout_weight="1"
                         android:padding="12dp"
-                        android:src="@drawable/play_button"
-                        android:tag="NotPlaying">
+                        android:tag="NotPlaying"
+                        app:srcCompat="@drawable/play_button">
 
                     </ImageView>
 
@@ -1021,7 +1022,7 @@
                         android:layout_height="match_parent"
                         android:layout_weight="1"
                         android:scaleType="centerCrop"
-                        android:src="@drawable/tum_jo_aaye">
+                        app:srcCompat="@drawable/tum_jo_aaye">
 
 
                     </ImageView>
@@ -1049,8 +1050,8 @@
                         android:layout_gravity="center_vertical"
                         android:layout_weight="1"
                         android:padding="12dp"
-                        android:src="@drawable/play_button"
-                        android:tag="NotPlaying">
+                        android:tag="NotPlaying"
+                        app:srcCompat="@drawable/play_button">
 
                     </ImageView>
 
@@ -1076,7 +1077,7 @@
                         android:layout_height="match_parent"
                         android:layout_weight="1"
                         android:scaleType="centerCrop"
-                        android:src="@drawable/tum_mile">
+                        app:srcCompat="@drawable/tum_mile">
 
 
                     </ImageView>
@@ -1104,8 +1105,8 @@
                         android:layout_gravity="center_vertical"
                         android:layout_weight="1"
                         android:padding="12dp"
-                        android:src="@drawable/play_button"
-                        android:tag="NotPlaying">
+                        android:tag="NotPlaying"
+                        app:srcCompat="@drawable/play_button">
 
                     </ImageView>
 

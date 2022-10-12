@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<soup.neumorphism.NeumorphCardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="120dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal"
+        android:weightSum="4">
+
+        <ImageView
+            android:id="@+id/SongImage"
+            android:src="@drawable/likhi_na_ar_toke_niye"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:scaleType="centerCrop">
+
+        </ImageView>
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="3"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/SongName"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/roboto_bold"
+                android:maxLines="2"
+                android:padding="5dp"
+                android:textAlignment="center"
+                android:gravity="center"
+                android:layout_gravity="center"
+                android:text="Likhi Na Ar Toke Niye"
+                android:textColor="@color/black"
+                android:textSize="18sp">
+
+
+            </TextView>
+
+            <TextView
+                android:id="@+id/SingerName"
+                android:layout_margin="5dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/roboto"
+                android:maxLines="2"
+                android:textAlignment="center"
+                android:gravity="center"
+                android:layout_gravity="center"
+                android:padding="5dp"
+                android:text="Arijit Singh"
+                android:textColor="@color/black"
+                android:textSize="14sp">
+
+
+            </TextView>
+
+
+        </LinearLayout>
+
+
+
+
+    </LinearLayout>
+
+
+</soup.neumorphism.NeumorphCardView>

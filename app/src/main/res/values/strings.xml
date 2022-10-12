@@ -1,6 +1,21 @@
 <resources>
-    <string name="app_name">Music Mela</string>
-    <string name="Rate_us_text">Please rate us on playstore.\nIt helps us doing even better!</string>
+
+
+
+<!--    Sample banner and interstitial Ad Ids-->
+<!--    <string name="bannerAdId">ca-app-pub-3940256099942544/6300978111</string>-->
+<!--    <string name="interstitialAdId">ca-app-pub-3940256099942544/1033173712</string>-->
+
+
+
+    <!--Main AD IDs-->
+    <string name="bannerAdId">ca-app-pub-2356323669011082/5824059470</string>
+    <string name="interstitialAdId">ca-app-pub-2356323669011082/1693242774</string>
+    <string name="AppId">ca-app-pub-2356323669011082~3888657435</string>
+
+
+    <string name="app_name">Music Cloud</string>
+    <string name="Rate_us_text">Please rate us on playstore.\nIt inspires us for doing even better!</string>
     <string name="hindi_details"><![CDATA[Top Hindi Slowed & Reverb Music Collection\n Enjoy the Music!]]></string>
     <string name="hindi_title">Hindi</string>
     <string name="aashiqui_aa_gaye">Aashiqui Aa Gaye</string>
@@ -18,12 +33,14 @@
     <string name="jeena_jeena">Jeena Jeena</string>
     <string name="kal_ho_na_hoo">Kal Ho Na Hoo</string>
     <string name="kaun_tujhe">Kaun Tujhe</string>
-    <string name="Splash_Title">Top Bengali,Hindi,English,Arabic Slowed and Reverb Lofi Music Collection!</string>
+    <string name="Splash_Title">Top English, Hindi, Arabic &amp; Bengali Music Collection!</string>
 
-    <string name="MusicMelaDetails">Music Mela is a light Music App.We Included Top Bengali,Hindi,English,Arabic slowed &amp; Reverb lofi Music in Music Mela App.Music Mela is very light because it fetches the song from our Database.So,The Internet must be connected.</string>
-    <string name="developer_info">Music Mela Designed and Developed by Prince Tech Solution.\nCC Alright reserved by the Developer &amp; Team</string>
+    <string name="MusicMelaDetails">Music Cloud is a light Music App.We Included Top Bengali,Hindi,English,Arabic slowed &amp; Reverb lofi Music in Music Mela App. Music Mela is very light because it fetches the song from our Cloud Server which is very fast and the audio quality is very high.So, Must check you internet connection before playing any music.</string>
+    <string name="developer_info">Music Cloud Designed and Developed by Prince Tech Solution.\nCC Alright reserved by the Developer &amp; Team</string>
 
     <string name="payme">Give me 20tk to add one more song!</string>
-    <string name="phone_number">+8801635593542</string>
+    <string name="phone_number"> </string>
+    <string name="English_Title">Top Listed English Music Collection from Different Singers\n Enjoy the Music!</string>
+
 
 </resources>

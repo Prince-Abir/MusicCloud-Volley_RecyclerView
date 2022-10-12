@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+
+
+    <string-array name="EnglishSongName">
+
+        <item>Easy On</item>
+        <item>Hello</item>
+        <item>Someone Like You</item>
+        <item>Let Me Down Slowly</item>
+        <item>It\'s You</item>
+        <item>No Roots</item>
+        <item>Ciao Adios</item>
+        <item>Kiss My (Uh Oh)</item>
+        <item>MÍA</item>
+        <item>Banana</item>
+        <item>Bellyache</item>
+        <item>No Time To Die</item>
+        <item>When The Party\'s Over</item>
+        <item>Lovely</item>
+        <item>Talking to the Moon</item>
+        <item>If Our Love Is Wrong</item>
+        <item>You Are The Reason</item>
+        <item>Attention</item>
+        <item>How Long</item>
+        <item>Light Switch</item>
+        <item>We Don\'t Talk Anymore</item>
+        <item>Rockabye</item>
+        <item>Symphony</item>
+        <item> Sugar &amp; Brownies</item>
+        <item>I DID IT</item>
+        <item>LET IT GO</item>
+        <item>Loco Contigo</item>
+        <item>A Different Way</item>
+        <item>Con Calma</item>
+        <item>Dura</item>
+        <item>Shaky Shaky</item>
+        <item>Sígueme y Te Sigo</item>
+        <item>Laugh Now Cry Later</item>
+        <item>Bad Habits</item>
+        <item>Beautiful People</item>
+        <item>Perfect</item>
+        <item>Shape of You</item>
+        <item>Bad At Love</item>
+        <item>Colors</item>
+        <item>Without Me</item>
+        <item>You Should Be Sad</item>
+        <item>Bad Boys Exclusive</item>
+        <item>Ruleta</item>
+        <item>Yalla</item>
+        <item>Up</item>
+        <item>Alright</item>
+        <item>Makeba</item>
+        <item>Acapulco</item>
+        <item>Take You Dancing</item>
+        <item>Love Not War</item>
+        <item>Ghost</item>
+        <item>Peaches</item>
+        <item>Bon Appétit</item>
+        <item>Despacito</item>
+        <item>Echame La Culpa</item>
+        <item>Calypso</item>
+        <item>Lean On</item>
+        <item>FRIENDS</item>
+        <item>Ritual</item>
+        <item>Leave Before You Love Me</item>
+        <item>Going Bad</item>
+        <item>Muévelo</item>
+        <item>Diamante</item>
+        <item>Biloinera</item>
+        <item>Rain Over Me</item>
+        <item>Pitbull</item>
+        <item>Ten Cuidado</item>
+        <item>Stay With Me</item>
+        <item>Safari</item>
+        <item>Unstoppable</item>
+        <item>Blank Space</item>
+        <item>Come Back</item>
+        <item>The Moment I Knew</item>
+        <item>We Are Never Ever Getting Back Together</item>
+        <item>Pull Up</item>
+        <item>See You Again</item>
+        <item>Still Wiz</item>
+        <item>Dusk Till Dawn</item>
+
+    </string-array>
+
+
+
+
+
+
+    <string-array name="EnglishSongSingerName">
+
+        <item>Adele</item>
+        <item>Adele</item>
+        <item>Adele</item>
+        <item>Alec Benjamin</item>
+        <item>Ali Gatie</item>
+        <item>Alice Merton</item>
+        <item>Anne-Marie</item>
+        <item>Anne-Marie</item>
+        <item>BAD BUNNY x DRAKE</item>
+        <item>Conkarah feat. Shaggy</item>
+        <item>Billie Eilish</item>
+        <item>Billie Eilish</item>
+        <item>Billie Eilish</item>
+        <item>Billie Eilish, Khalid</item>
+        <item>Bruno Mars</item>
+        <item>Calum Scott</item>
+        <item>Calum Scott</item>
+        <item>Charlie Puth</item>
+        <item>Charlie Puth</item>
+        <item>Charlie Puth</item>
+        <item>Charlie Puth feat. Selena Gomez</item>
+        <item>Clean Bandit feat. Sean Paul &amp; Anne-Marie</item>
+        <item>Clean Bandit feat. Zara Larsson</item>
+        <item>DHARIA</item>
+        <item>DJ Khaled ft. Post Malone, Megan Thee Stallion</item>
+        <item>DJ Khaled ft. Justin Bieber</item>
+        <item>DJ Snake, J Balvin, Tyga</item>
+        <item>DJ Snake, Lauv</item>
+        <item>Daddy Yankee &amp; Snow</item>
+        <item>Daddy Yankee</item>
+        <item>Daddy Yankee</item>
+        <item>Daddy Yankee</item>
+        <item>Drake</item>
+        <item>Ed Sheeran</item>
+        <item>Ed Sheeran feat. Khalid</item>
+        <item>Ed Sheeran</item>
+        <item>Ed Sheeran</item>
+        <item>Halsey</item>
+        <item>Halsey</item>
+        <item>Halsey</item>
+        <item>Halsey</item>
+        <item>INNA</item>
+        <item>INNA</item>
+        <item>INNA</item>
+        <item>INNA x Sean Paul</item>
+        <item>Jain</item>
+        <item>Jain</item>
+        <item>Jason Derulo</item>
+        <item>Jason Derulo</item>
+        <item>Jason Derulo x Nuka</item>
+        <item>Justin Bieber</item>
+        <item>Justin Bieber ft. Daniel Caesar, Giveon</item>
+        <item>Katy Perry</item>
+        <item>Luis Fonsi ft. Daddy Yankee</item>
+        <item>Luis Fonsi, Demi Lovato</item>
+        <item>Luis Fonsi, Stefflon Don</item>
+        <item>Major Lazer &amp; DJ Snake</item>
+        <item>Marshmello &amp; Anne-Marie</item>
+        <item>Marshmello feat. Wrabel</item>
+        <item>Marshmello x Jonas Brothers</item>
+        <item>Meek Mill feat. Drake</item>
+        <item>Nicky Jam &amp; Daddy Yankee</item>
+        <item>Otilia</item>
+        <item>Otilia</item>
+        <item>Pitbull ft. Marc Anthony</item>
+        <item>Pitbull ft. Tito El Bambino &amp; Guru Randhawa</item>
+        <item>Pitbull x Farruko x IAmChino x El Alfa x Omar Courtz</item>
+        <item>Sam Smith</item>
+        <item>Serena</item>
+        <item>Sia</item>
+        <item>Taylor Swift</item>
+        <item>Taylor Swift</item>
+        <item>Taylor Swift</item>
+        <item>Taylor Swift</item>
+        <item>Wiz Khalifa ft. Lil Uzi Vert</item>
+        <item>Wiz Khalifa ft. Charlie Puth</item>
+        <item>Wiz Khalifa</item>
+        <item>ZAYN ft. Sia</item>
+
+    </string-array>
+
+
+
+
+
+    <string-array name="EnglishSongUrl">
+
+        <item>https://cdn.jsdelivr.net/gh/PrinceAbir/English-Songs/Adele%20-%20Easy%20On%20Me%20(Live%20at%20the%20NRJ%20Awards%202021)%20128%20kbps.mp3</item>
+        <item>https://cdn.jsdelivr.net/gh/PrinceAbir/English-Songs/Adele%20-%20Hello%20128%20kbps.mp3</item>
+        <item>https://cdn.jsdelivr.net/gh/PrinceAbir/English-Songs/Adele%20-%20Someone%20Like%20You%20(Official%20Music%20Video)%20128%20kbps.mp3</item>
+        <item>https://cdn.jsdelivr.net/gh/PrinceAbir/English-Songs/Alec%20Benjamin%20-%20Let%20Me%20Down%20Slowly%20(Live%20from%20Irving%20Plaza)%20128%20kbps.mp3</item>
+        <item>https://cdn.jsdelivr.net/gh/PrinceAbir/English-Songs/Ali%20Gatie%20-%20It\'s%20You%20(Lyrics)%20128%20kbps.mp3</item>
+        <item>https://cdn.jsdelivr.net/gh/PrinceAbir/English-Songs/Alice%20Merton%20-%20No%20Roots%20128%20kbps.mp3</item>
+        <item>https://cdn.jsdelivr.net/gh/PrinceAbir/English-Songs/Anne-Marie%20-%20Ciao%20Adios%20%5BOfficial%20Video%5D%20128%20kbps.mp3</item>
+        <item>https://cdn.jsdelivr.net/gh/PrinceAbir/English-Songs/Anne-Marie%20-%20Kiss%20My%20(Uh%20Oh)%20(BRITs%20Are%20Coming%202022)%20128%20kbps.mp3</item>
+        <item>https://cdn.jsdelivr.net/gh/PrinceAbir/English-Songs/BAD%20BUNNY%20x%20DRAKE%20-%20M%C3%8DA%20(Video%20Oficial)%20128%20kbps.mp3</item>
+        <item>https://cdn.jsdelivr.net/gh/PrinceAbir/English-Songs/Banana%20(feat.%20Shaggy)%20%5BDJ%20FLe%20-%20Minisiren%20Remix%5D%20Official%20Music%20Video%20%20128%20kbps.mp3</item>
+        <item>https://cdn.jsdelivr.net/gh/PrinceAbir/English-Songs/Billie%20Eilish%20-%20Bellyache%20128%20kbps.mp3</item>
+        <item>https://cdn.jsdelivr.net/gh/PrinceAbir/English-Songs/Billie%20Eilish%20-%20No%20Time%20To%20Die%20128%20kbps.mp3</item>
+        <item>https://cdn.jsdelivr.net/gh/PrinceAbir/English-Songs/Billie%20Eilish%20-%20when%20the%20party\'s%20over%20128%20kbps.mp3</item>
+        <item>https://cdn.jsdelivr.net/gh/PrinceAbir/English-Songs/Billie%20Eilish%2C%20Khalid%20-%20lovely%20(Lyrics)%20128%20kbps.mp3</item>
+        <item>https://cdn.jsdelivr.net/gh/PrinceAbir/English-Songs/Bruno%20Mars%20-%20Talking%20to%20the%20Moon%20(Lyrics)%20128%20kbps.mp3</item>
+        <item>https://cdn.jsdelivr.net/gh/PrinceAbir/English-Songs/Calum%20Scott%20-%20If%20Our%20Love%20Is%20Wrong%20(Audio)%20128%20kbps.mp3</item>
+        <item>https://cdn.jsdelivr.net/gh/PrinceAbir/English-Songs/Calum%20Scott%20-%20You%20Are%20The%20Reason%20(Official%20Video)%20128%20kbps.mp3</item>
+        <item>https://cdn.jsdelivr.net/gh/PrinceAbir/English-Songs/Charlie%20Puth%20-%20Attention%20%5BOfficial%20Video%5D%20128%20kbps.mp3</item>
+        <item>https://cdn.jsdelivr.net/gh/PrinceAbir/English-Songs/Charlie%20Puth%20-%20How%20Long%20%5BOfficial%20Video%5D%20128%20kbps.mp3</item>
+        <item>https://cdn.jsdelivr.net/gh/PrinceAbir/English-Songs/Charlie%20Puth%20-%20Light%20Switch%20%5BOfficial%20Music%20Video%5D%20128%20kbps.mp3</item>
+        <item>https://cdn.jsdelivr.net/gh/PrinceAbir/English-Songs/Charlie%20Puth%20-%20We%20Don\'t%20Talk%20Anymore%20(feat.%20Selena%20Gomez)%20%5BOfficial%20Vi%20128%20kbps.mp3</item>
+        <item>https://cdn.jsdelivr.net/gh/PrinceAbir/English-Songs/Clean%20Bandit%20-%20Rockabye%20(feat.%20Sean%20Paul%20%26%20Anne-Marie)%20%5BOfficial%20Video%20128%20kbps.mp3</item>
+        <item>https://cdn.jsdelivr.net/gh/PrinceAbir/English-Songs/Clean%20Bandit%20-%20Symphony%20(feat.%20Zara%20Larsson)%20%5BOfficial%20Video%5D%20128%20kbps.mp3</item>
+        <item>https://cdn.jsdelivr.net/gh/PrinceAbir/English-Songs/DHARIA%20-%20Sugar%20%26%20Brownies%20(by%20Monoir)%20%5BOfficial%20Video%5D%20128%20kbps.mp3</item>
+        <item>https://cdn.jsdelivr.net/gh/PrinceAbir/English-Songs/DJ%20Khaled%20-%20I%20DID%20IT%20(Official)%20ft.%20Post%20Malone%2C%20Megan%20Thee%20Stallion%2C%20%20128%20kbps.mp3</item>
+        <item>https://cdn.jsdelivr.net/gh/PrinceAbir/English-Songs/DJ%20Khaled%20-%20LET%20IT%20GO%20(Official%20Music%20Video)%20ft.%20Justin%20Bieber%2C%2021%20Sav%20128%20kbps.mp3</item>
+        <item>https://cdn.jsdelivr.net/gh/PrinceAbir/English-Songs/DJ%20Snake%2C%20J%20Balvin%2C%20Tyga%20-%20Loco%20Contigo%20128%20kbps.mp3</item>
+        <item>https://cdn.jsdelivr.net/gh/PrinceAbir/English-Songs/DJ%20Snake%2C%20Lauv%20-%20A%20Different%20Way%20(Official%20Video)%20128%20kbps.mp3</item>
+        <item>https://cdn.jsdelivr.net/gh/PrinceAbir/English-Songs/Daddy%20Yankee%20%26%20Snow%20-%20Con%20Calma%20(Video%20Oficial)%20128%20kbps.mp3</item>
+        <item>https://cdn.jsdelivr.net/gh/PrinceAbir/English-Songs/Daddy%20Yankee%20-%20Dura%20(Video%20Oficial)%20128%20kbps.mp3</item>
+        <item>https://cdn.jsdelivr.net/gh/PrinceAbir/English-Songs/Daddy%20Yankee%20-%20Shaky%20Shaky%20(Video%20Oficial)%20128%20kbps.mp3</item>
+        <item>https://cdn.jsdelivr.net/gh/PrinceAbir/English-Songs/Daddy%20Yankee%20-%20S%C3%ADgueme%20y%20Te%20Sigo%20(Video%20Oficial)%20128%20kbps.mp3</item>
+        <item>https://cdn.jsdelivr.net/gh/PrinceAbir/English-Songs/Drake%20-%20Laugh%20Now%20Cry%20Later%20(Official%20Music%20Video)%20ft.%20Lil%20Durk%20128%20kbps.mp3</item>
+        <item>https://cdn.jsdelivr.net/gh/PrinceAbir/English-Songs/Ed%20Sheeran%20-%20Bad%20Habits%20%5BOfficial%20Video%5D%20128%20kbps.mp3</item>
+        <item>https://cdn.jsdelivr.net/gh/PrinceAbir/English-Songs/Ed%20Sheeran%20-%20Beautiful%20People%20(feat.%20Khalid)%20%5BOfficial%20Music%20Video%5D%20128%20kbps.mp3</item>
+        <item>https://cdn.jsdelivr.net/gh/PrinceAbir/English-Songs/Ed%20Sheeran%20-%20Perfect%20(Lyrics)%20128%20kbps.mp3</item>
+        <item>https://cdn.jsdelivr.net/gh/PrinceAbir/English-Songs/Ed%20Sheeran%20-%20Shape%20of%20You%20(Official%20Music%20Video)%20128%20kbps.mp3</item>
+        <item>https://cdn.jsdelivr.net/gh/PrinceAbir/English-Songs/Halsey%20-%20Bad%20At%20Love%20128%20kbps.mp3</item>
+        <item>https://cdn.jsdelivr.net/gh/PrinceAbir/English-Songs/Halsey%20-%20Colors%20128%20kbps.mp3</item>
+        <item>https://cdn.jsdelivr.net/gh/PrinceAbir/English-Songs/Halsey%20-%20Without%20Me%20(Lyrics)%20128%20kbps.mp3</item>
+        <item>https://cdn.jsdelivr.net/gh/PrinceAbir/English-Songs/Halsey%20-%20You%20should%20be%20sad%20128%20kbps.mp3</item>
+        <item>https://cdn.jsdelivr.net/gh/PrinceAbir/English-Songs/INNA%20-%20Bad%20Boys%20%20Exclusive%20Online%20Video%20128%20kbps.mp3</item>
+        <item>https://cdn.jsdelivr.net/gh/PrinceAbir/English-Songs/INNA%20-%20Ruleta%20(feat.%20Erik)%20%20Official%20Music%20Video%20128%20kbps.mp3</item>
+        <item>https://cdn.jsdelivr.net/gh/PrinceAbir/English-Songs/INNA%20-%20Yalla%20%20Official%20Music%20Video%20128%20kbps.mp3</item>
+        <item>https://cdn.jsdelivr.net/gh/PrinceAbir/English-Songs/INNA%20x%20Sean%20Paul%20-%20Up%20(Official%20Video)%20128%20kbps.mp3</item>
+        <item>https://cdn.jsdelivr.net/gh/PrinceAbir/English-Songs/Jain%20-%20Alright%20(Official%20Video)%20128%20kbps.mp3</item>
+        <item>https://cdn.jsdelivr.net/gh/PrinceAbir/English-Songs/Jain%20-%20Makeba%20(Official%20Video)%20128%20kbps.mp3</item>
+        <item>https://cdn.jsdelivr.net/gh/PrinceAbir/English-Songs/Jason%20Derulo%20-%20Acapulco%20%5BOfficial%20Music%20Video%5D%20128%20kbps.mp3</item>
+        <item>https://cdn.jsdelivr.net/gh/PrinceAbir/English-Songs/Jason%20Derulo%20-%20Take%20You%20Dancing%20%5BOfficial%20Music%20Video%5D%20128%20kbps.mp3</item>
+        <item>https://cdn.jsdelivr.net/gh/PrinceAbir/English-Songs/Jason%20Derulo%20x%20Nuka%20-%20Love%20Not%20War%20%5BOfficial%20Music%20Video%5D%20128%20kbps.mp3</item>
+        <item>https://cdn.jsdelivr.net/gh/PrinceAbir/English-Songs/Justin%20Bieber%20-%20Ghost%20128%20kbps.mp3</item>
+        <item>https://cdn.jsdelivr.net/gh/PrinceAbir/English-Songs/Justin%20Bieber%20-%20Peaches%20ft.%20Daniel%20Caesar%2C%20Giveon%20128%20kbps.mp3</item>
+        <item>https://cdn.jsdelivr.net/gh/PrinceAbir/English-Songs/Katy%20Perry%20-%20Bon%20App%C3%A9tit%20(Official)%20ft.%20Migos%20128%20kbps.mp3</item>
+        <item>https://cdn.jsdelivr.net/gh/PrinceAbir/English-Songs/Luis%20Fonsi%20-%20Despacito%20ft.%20Daddy%20Yankee%20128%20kbps.mp3</item>
+        <item>https://cdn.jsdelivr.net/gh/PrinceAbir/English-Songs/Luis%20Fonsi%2C%20Demi%20Lovato%20-%20%C3%89chame%20La%20Culpa%20(Video%20Oficial)%20128%20kbps.mp3</item>
+        <item>https://cdn.jsdelivr.net/gh/PrinceAbir/English-Songs/Luis%20Fonsi%2C%20Stefflon%20Don%20-%20Calypso%20128%20kbps.mp3</item>
+        <item>https://cdn.jsdelivr.net/gh/PrinceAbir/English-Songs/Major%20Lazer%20%26%20DJ%20Snake%20-%20Lean%20On%20(feat.%20M%C3%98)%20(Official%20Music%20Video)%20128%20kbps.mp3</item>
+        <item>https://cdn.jsdelivr.net/gh/PrinceAbir/English-Songs/Marshmello%20%26%20Anne-Marie%20-%20FRIENDS%20(Music%20Video)%20OFFICIAL%20FRIENDZONE%20AN%20128%20kbps.mp3</item>
+        <item>https://cdn.jsdelivr.net/gh/PrinceAbir/English-Songs/Marshmello%20-%20Ritual%20(feat.%20Wrabel)%20%5BOfficial%20Music%20Video%5D%20128%20kbps.mp3</item>
+        <item>https://cdn.jsdelivr.net/gh/PrinceAbir/English-Songs/Marshmello%20x%20Jonas%20Brothers%20-%20Leave%20Before%20You%20Love%20Me%20(Official%20Music%20128%20kbps.mp3</item>
+        <item>https://cdn.jsdelivr.net/gh/PrinceAbir/English-Songs/Meek%20Mill%20-%20Going%20Bad%20feat.%20Drake%20(Official%20Video)%20128%20kbps.mp3</item>
+        <item>https://cdn.jsdelivr.net/gh/PrinceAbir/English-Songs/Mu%C3%A9velo%20-%20Nicky%20Jam%20%26%20Daddy%20Yankee%20128%20kbps.mp3</item>
+        <item>https://cdn.jsdelivr.net/gh/PrinceAbir/English-Songs/Otilia%20-%20Diamante%20(Official%20Music%20Video)%20128%20kbps.mp3</item>
+        <item>https://cdn.jsdelivr.net/gh/PrinceAbir/English-Songs/Ottila%20biloinera%20song%20128%20kbps.mp3</item>
+        <item>https://cdn.jsdelivr.net/gh/PrinceAbir/English-Songs/Pitbull%20-%20Rain%20Over%20Me%20ft.%20Marc%20Anthony%20128%20kbps.mp3</item>
+        <item>https://cdn.jsdelivr.net/gh/PrinceAbir/English-Songs/Pitbull%20ft.%20Tito%20El%20Bambino%20%26%20Guru%20Randhawa%20-%20Mueve%20La%20Cintura%20(Offici%20128%20kbps.mp3</item>
+        <item>https://cdn.jsdelivr.net/gh/PrinceAbir/English-Songs/Pitbull%20x%20Farruko%20x%20IAmChino%20x%20El%20Alfa%20x%20Omar%20Courtz%20-%20Ten%20Cuidado%20(Of%20128%20kbps.mp3</item>
+        <item>https://cdn.jsdelivr.net/gh/PrinceAbir/English-Songs/Sam%20Smith%20-%20Stay%20With%20Me%20(Official%20Video)%20128%20kbps.mp3</item>
+        <item>https://cdn.jsdelivr.net/gh/PrinceAbir/English-Songs/Serena%20-%20Safari%20(Official%20Video)%20128%20kbps.mp3</item>
+        <item>https://cdn.jsdelivr.net/gh/PrinceAbir/English-Songs/Sia%20-%20Unstoppable%20(Lyrics)%20128%20kbps.mp3</item>
+        <item>https://cdn.jsdelivr.net/gh/PrinceAbir/English-Songs/Taylor%20Swift%20-%20Blank%20Space%20128%20kbps.mp3</item>
+        <item>https://cdn.jsdelivr.net/gh/PrinceAbir/English-Songs/Taylor%20Swift%20-%20Come%20Back...Be%20Here%20(Taylor\'s%20Version)%20(Lyric%20Video)%20128%20kbps.mp3</item>
+        <item>https://cdn.jsdelivr.net/gh/PrinceAbir/English-Songs/Taylor%20Swift%20-%20The%20Moment%20I%20Knew%20(Taylor\'s%20Version)%20(Lyric%20Video)%20128%20kbps.mp3</item>
+        <item>https://cdn.jsdelivr.net/gh/PrinceAbir/English-Songs/Taylor%20Swift%20-%20We%20Are%20Never%20Ever%20Getting%20Back%20Together%20(Taylor\'s%20Versi%20128%20kbps.mp3</item>
+        <item>https://cdn.jsdelivr.net/gh/PrinceAbir/English-Songs/Wiz%20Khalifa%20-%20Pull%20Up%20ft.%20Lil%20Uzi%20Vert%20%5BOfficial%20Video%5D%20128%20kbps.mp3</item>
+        <item>https://cdn.jsdelivr.net/gh/PrinceAbir/English-Songs/Wiz%20Khalifa%20-%20See%20You%20Again%20ft.%20Charlie%20Puth%20%5BOfficial%20Video%5D%20Furious%20%20128%20kbps.mp3</item>
+        <item>https://cdn.jsdelivr.net/gh/PrinceAbir/English-Songs/Wiz%20Khalifa%20-%20Still%20Wiz%20%5BOfficial%20Music%20Video%5D%20128%20kbps.mp3</item>
+        <item>https://cdn.jsdelivr.net/gh/PrinceAbir/English-Songs/ZAYN%20ft.%20Sia%20-%20Dusk%20Till%20Dawn%20(Lyrics)%20128%20kbps.mp3</item>
+
+    </string-array>
+
+
+
+
+
+</resources>

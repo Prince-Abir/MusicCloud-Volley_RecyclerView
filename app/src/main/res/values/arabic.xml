@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+<string-array name="ArabicSongName">
+
+    <item>3 Daqat</item>
+    <item>2018</item>
+    <item>An El Awan</item>
+    <item>Malek El Fabraka</item>
+    <item>Ahla Snin</item>
+    <item>Anedni</item>
+    <item>GOMARI</item>
+    <item>Lala Moulati</item>
+    <item>Ya Hmema</item>
+    <item>Baddek Eih</item>
+    <item>Haha</item>
+    <item>Ya Lili</item>
+    <item>INSAHA</item>
+    <item>Beddala</item>
+    <item>GAW ELBANAT</item>
+    <item>Madamti</item>
+    <item>Mi Amor</item>
+    <item>Yalla Habibti</item>
+    <item>Amirati</item>
+    <item>LI FATE</item>
+    <item>CASABLANCA</item>
+    <item>GHALTANA</item>
+    <item>LM3ALLEM</item>
+    <item>MAL HBIBI MALOU</item>
+    <item>Lewjah Tani</item>
+    <item>ENTY HAYATY</item>
+    <item>Ah Yani</item>
+    <item>Ashq Mot</item>
+    <item>Momken</item>
+    <item>VAN</item>
+    <item>DECAPOTABLE</item>
+    <item>FAVOR</item>
+    <item>Ghamza</item>
+    <item>MUCHAS GRACIAS</item>
+
+
+</string-array>
+
+    <string-array name="ArabicSongSingerName">
+
+
+        <item>Abu Ft. Yousra</item>
+        <item>Jassim x Alturky x Al Abdullah</item>
+        <item>Abu</item>
+        <item>Abu</item>
+        <item>Adam x Balti feat. Jimmy H.</item>
+        <item>Adil Assil</item>
+        <item>Adil Assil</item>
+        <item>Adil Assil</item>
+        <item>Artmasta ft. Cheb Bechir</item>
+        <item>Saad Lamjarre,Bhushan Kumar</item>
+        <item>Balti</item>
+        <item>Balti feat. Hamouda</item>
+        <item>Chawki ft. Omar</item>
+        <item>Mehdi Mozayine</item>
+        <item>Mohamed Ramadan x RedOne x Nouamane Belaiachi</item>
+        <item>Nouaman Belaiachi</item>
+        <item>Nouaman Belaiachi</item>
+        <item>Omar Arnaout</item>
+        <item>Omar Arnaout</item>
+        <item>OUENZA</item>
+        <item>Saad Lamjarred</item>
+        <item>Saad Lamjarred</item>
+        <item>Saad Lamjarred</item>
+        <item>Saad Lamjarred</item>
+        <item>Saad Lamjarred and Zouhair Bahaoui</item>
+        <item>Saad Lamjarred ft. CALEMA</item>
+        <item>Saif Nabeel</item>
+        <item>Saif Nabeel</item>
+        <item>Saif Nabeel and Balqees</item>
+        <item>Ma Khasser Walou (feat. Hanane and Mehdi Mozayine)</item>
+        <item>Zouhair Bahaoui</item>
+        <item>Zouhair Bahaoui</item>
+        <item>Zouhair Bahaoui</item>
+        <item>Zouhair Bahaoui</item>
+
+    </string-array>
+
+    <string-array name="ArabicSongUrl">
+
+
+        <item>https://cdn.jsdelivr.net/gh/PrinceAbir/Arabic-Songs/3%20Daqat%20-%20Abu%20Ft.%20Yousra.mp3</item>
+        <item>https://cdn.jsdelivr.net/gh/PrinceAbir/Arabic-Songs/2018%20%20Jassim%20%20128%20kbps.mp3</item>
+        <item>https://cdn.jsdelivr.net/gh/PrinceAbir/Arabic-Songs/Abu%20-%20An%20El%20Awan%20%20Official%20Lyrics%20Video%20-%202021.mp3</item>
+        <item>https://cdn.jsdelivr.net/gh/PrinceAbir/Arabic-Songs/Abu%20-%20Malek%20El%20Fabraka%20%20Lyrics%20Video%20-%202021.mp3</item>
+        <item>https://cdn.jsdelivr.net/gh/PrinceAbir/Arabic-Songs/Adam%20x%20Balti%20feat.%20Jimmy%20H.%20-%20%20Ahla%20Snin%20(Official%20Music%20Video).mp3</item>
+        <item>https://cdn.jsdelivr.net/gh/PrinceAbir/Arabic-Songs/Adil%20Assil%20-%20Anedni%20(Exclusive%20Music%20Video)%20%20(2017).mp3</item>
+        <item>https://cdn.jsdelivr.net/gh/PrinceAbir/Arabic-Songs/Adil%20Assil%20-%20GOMARI%20(EXCLUSIVE%20Music%20Video).mp3</item>
+        <item>https://cdn.jsdelivr.net/gh/PrinceAbir/Arabic-Songs/Adil%20Assil%20-%20Lala%20Moulati%20(EXCLUSIVE%20Music%20Video).mp3</item>
+        <item>https://cdn.jsdelivr.net/gh/PrinceAbir/Arabic-Songs/Artmasta%20ft.%20Cheb%20bechir%20Ya%20hmema.mp3</item>
+        <item>https://cdn.jsdelivr.net/gh/PrinceAbir/Arabic-Songs/Baddek%20Eih%20(Arabic%20Binte%20Dil)%20%20Song%20Video%20%20Saad%20Lamjarred.mp3</item>
+        <item>https://cdn.jsdelivr.net/gh/PrinceAbir/Arabic-Songs/Balti%20-%20Haha%20(Official%20Music%20Video).mp3</item>
+        <item>https://cdn.jsdelivr.net/gh/PrinceAbir/Arabic-Songs/Balti%20-%20Ya%20Lili%20feat.%20Hamouda%20(Official%20Music%20Video)%20128%20kbps.mp3</item>
+        <item>https://cdn.jsdelivr.net/gh/PrinceAbir/Arabic-Songs/Chawki%20ft.%20Omar%20-%20Insaha%20(EXCLUSIVE%20Music%20Video).mp3</item>
+        <item>https://cdn.jsdelivr.net/gh/PrinceAbir/Arabic-Songs/Mehdi%20Mozayine%20-%20Beddala%20(%20EXCLUSIVE%20MUSIC%20VIDEO%20).mp3</item>
+        <item>https://cdn.jsdelivr.net/gh/PrinceAbir/Arabic-Songs/Mohamed%20Ramadan%20x%20RedOne%20x%20Nouamane%20Belaiachi%20-%20GAW%20ELBANAT%20(Video%20Off%20128%20kbps.mp3</item>
+        <item>https://cdn.jsdelivr.net/gh/PrinceAbir/Arabic-Songs/Nouaman%20Belaiachi%20-%20Madamti%20(Exclusive%20Music%20Video).mp3</item>
+        <item>https://cdn.jsdelivr.net/gh/PrinceAbir/Arabic-Songs/Nouaman%20Belaiachi%20-%20Mi%20Amor%20(EXCLUSIVE%20Music%20Video).mp3</item>
+        <item>https://cdn.jsdelivr.net/gh/PrinceAbir/Arabic-Songs/OMAR%20-%20Yalla%20Habibti%20(Official%20Video)%20by%20TommoProduction%20128%20kbps.mp3</item>
+        <item>https://cdn.jsdelivr.net/gh/PrinceAbir/Arabic-Songs/Omar%20Arnaout%20-%20Amirati%20(Official%20Video)%20128%20kbps.mp3</item>
+        <item>https://cdn.jsdelivr.net/gh/PrinceAbir/Arabic-Songs/OUENZA%20-%20LI%20FATE%20(%20Official%20Music%20Video%20)%20128%20kbps.mp3</item>
+        <item>https://cdn.jsdelivr.net/gh/PrinceAbir/Arabic-Songs/Saad%20Lamjarred%20-%20CASABLANCA%20(EXCLUSIVE%20Music%20Video).mp3</item>
+        <item>https://cdn.jsdelivr.net/gh/PrinceAbir/Arabic-Songs/Saad%20Lamjarred%20-%20GHALTANA%20(EXCLUSIVE%20Music%20Video).mp3</item>
+        <item>https://cdn.jsdelivr.net/gh/PrinceAbir/Arabic-Songs/Saad%20Lamjarred%20-%20LM3ALLEM%20(Exclusive%20Music%20Video).mp3</item>
+        <item>https://cdn.jsdelivr.net/gh/PrinceAbir/Arabic-Songs/Saad%20Lamjarred%20-%20MAL%20HBIBI%20MALOU%20(%20Music%20Video).mp3</item>
+        <item>https://cdn.jsdelivr.net/gh/PrinceAbir/Arabic-Songs/Saad%20Lamjarred%20&amp;%20Zouhair%20Bahaoui%20-%20Lewjah%20Tani%20%202021.mp3</item>
+        <item>https://cdn.jsdelivr.net/gh/PrinceAbir/Arabic-Songs/Saad%20Lamjarred%20ft.%20CALEMA%20-%20ENTY%20HAYATY%20%202021.mp3</item>
+        <item>https://cdn.jsdelivr.net/gh/PrinceAbir/Arabic-Songs/Saif%20Nabeel%20-%20Ah%20Yani%20%5BOfficial%20Music%20Video%5D%20(2021).mp3</item>
+        <item>https://cdn.jsdelivr.net/gh/PrinceAbir/Arabic-Songs/Saif%20Nabeel%20-%20Ashq%20Mot%20(Official%20Music%20Video.mp3</item>
+        <item>https://cdn.jsdelivr.net/gh/PrinceAbir/Arabic-Songs/Saif%20Nabeel%20&amp;%20Balqees%20-%20Momken%20%5BOfficial%20Music%20Video%5D%20(2021).mp3</item>
+        <item>https://cdn.jsdelivr.net/gh/PrinceAbir/Arabic-Songs/VAN%20-%20Ma%20Khasser%20Walou%20(feat.%20Hanane%20&amp;%20Mehdi%20Mozayine).mp3</item>
+        <item>https://cdn.jsdelivr.net/gh/PrinceAbir/Arabic-Songs/Zouhair%20Bahaoui%20-%20D%C3%89CAPOTABLE%20(EXCLUSIVE%20Music%20Video).mp3</item>
+        <item>https://cdn.jsdelivr.net/gh/PrinceAbir/Arabic-Songs/Zouhair%20Bahaoui%20-%20FAVOR%20(EXCLUSIVE%20Music%20Video).mp3</item>
+        <item>https://cdn.jsdelivr.net/gh/PrinceAbir/Arabic-Songs/Zouhair%20Bahaoui%20-%20Ghamza%20(EXCLUSIVE%20Music%20Video).mp3</item>
+        <item>https://cdn.jsdelivr.net/gh/PrinceAbir/Arabic-Songs/Zouhair%20Bahaoui%20-%20MUCHAS%20GRACIAS%20(Exclusive%20Music%20Video).mp3</item>
+
+    </string-array>
+
+</resources>

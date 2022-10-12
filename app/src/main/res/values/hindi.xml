@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="HindiSongName">
+
+        <item>Aashique Aa Gaye</item>
+        <item>Banjaara</item>
+        <item>Barrish</item>
+        <item>Be Intehaan</item>
+        <item>Chale Aana</item>
+        <item>Dil ko Karar Aaya</item>
+        <item>Falak Tak</item>
+        <item>Hasi Ban Gaye</item>
+        <item>Hawayein</item>
+        <item>Hossanna</item>
+        <item>Ijazat</item>
+        <item>Ishq Sufiyana</item>
+        <item>Jeena Jeena</item>
+        <item>Kal Ho Na Hoo</item>
+        <item>Kaun Tujhe</item>
+        <item>Khamoshiyan</item>
+        <item>Kya Mujhe Pyaar Hai</item>
+        <item>Lag Ja Gale</item>
+        <item>Main Rang Sharbaton</item>
+        <item>Mast Magan</item>
+        <item>Mera Maan</item>
+        <item>Moh Moh Ke Dhaage</item>
+        <item>Phir le Aaya Dil</item>
+        <item>Piya O Re Piya</item>
+        <item>Raatan Lambiyan</item>
+        <item>Ranjha</item>
+        <item>Saibo</item>
+        <item>Srivalli</item>
+        <item>Subhanallah</item>
+        <item>Teri Mitti</item>
+        <item>Tose Naina</item>
+        <item>Tujhe Kinta Chahne Lage</item>
+        <item>Tujshe Naraz Nahi</item>
+        <item>Tum Jo Aaye</item>
+        <item>Tum Mile</item>
+
+    </string-array>
+
+
+    <string-array name="HindiSongSignerName">
+
+        <item>Arijit Singh</item>
+        <item>Mohammed Irfan</item>
+        <item>Ash King,Shashaa Tirupati</item>
+        <item>Atif Aslam</item>
+        <item>Armaan Malik</item>
+        <item>Yasser Desai,Neha Kakkar</item>
+        <item>Udit Narayan</item>
+        <item>Ami Mishra</item>
+        <item>Arijit Singh</item>
+        <item>Leon D souza,Suzanne D Mello</item>
+        <item>Arijit Singh</item>
+        <item>Kamal Khan</item>
+        <item>Atif Aslam</item>
+        <item>Sonu Nigham</item>
+        <item>Amaal Mallik,Palak Muchhal</item>
+        <item>Arijit Singh</item>
+        <item>KK,K.K</item>
+        <item>Sanam</item>
+        <item>Arijit Singh</item>
+        <item>Arijit Singh</item>
+        <item>Falak Shabir</item>
+        <item>Papon</item>
+        <item>Arijit Singh</item>
+        <item>Atif Aslam,Shreya Ghoshal</item>
+        <item>Jubin Nautiyal,Asees Kaur</item>
+        <item>B Praak,Jasleen Royal,Romy</item>
+        <item>Shreya Goshal,Tochi Raina</item>
+        <item>Javed Ali</item>
+        <item>Sreeram,Shilpa Rao</item>
+        <item>B Praak</item>
+        <item>Arijit Singh</item>
+        <item>Arijit Singh</item>
+        <item>Sanam Puri</item>
+        <item>Rahat Fateh Ali Khan,Tulsi Kumar</item>
+        <item>Javed Ali</item>
+
+    </string-array>
+
+
+
+
+
+    <string-array name="HindiSongUrl">
+
+        <item>https://princetechsoft.000webhostapp.com/Songs/Hindi/Aashiqui%20Aa%20Gayi%20[LoFi%20Remake]-@GOURAV%20Mithoon%20%E2%80%A2%20Arijit%20Singh%20%20Textaud%20128%20kbps.mp3</item>
+        <item>https://princetechsoft.000webhostapp.com/Songs/Hindi/Banjaara%20-%20Ek%20Villain%20(slowed%20+%20reverb%20+%20rain)%20128%20kbps.mp3</item>
+        <item>https://princetechsoft.000webhostapp.com/Songs/Hindi/Baarish%20[LoFi]%20[Lyrics]-%20Cryptic%20%20Textaudio%20Lyrics%20128%20kbps.mp3</item>
+        <item>https://princetechsoft.000webhostapp.com/Songs/Hindi/Be%20Intehaan%20[LoFi]%20[Lyrics]-Atif%20Aslam%20%20Textaudio%20Lyrics%20128%20kbps.mp3</item>
+        <item>https://princetechsoft.000webhostapp.com/Songs/Hindi/Chale%20Aana%20[Slowed+Reverb]%20-%20Armaan%20Malik%20Kunaal%20Vermaa%20%20Ajay%20Devgan,%20%20128%20kbps.mp3</item>
+        <item>https://princetechsoft.000webhostapp.com/Songs/Hindi/Dil%20Ko%20Karaar%20Aaya%20[Slowed+Reverb]%20-%20Yasser%20Desai%20%20Shourov%20Rahman%20%20Tex%20128%20kbps.mp3</item>
+        <item>https://princetechsoft.000webhostapp.com/Songs/Hindi/Falak%20Tak%20Song%20%20[Reverb]%20%20Mood%2090\'s%20128%20kbps.mp3</item>
+        <item>https://princetechsoft.000webhostapp.com/Songs/Hindi/Hasi%20Ban%20Gaye%20[Slowed+Reverb]%20-%20Ami%20Mishra%20%20Hamari%20Adhuri%20Kahani%20%20Male%20128%20kbps.mp3</item>
+        <item>https://princetechsoft.000webhostapp.com/Songs/Hindi/Hawayein%20[LoFi]-Arijit%20Singh%20@JAZ%20Scape%20Textaudio%20Lyrics%20128%20kbps.mp3</item>
+        <item>https://princetechsoft.000webhostapp.com/Songs/Hindi/Hosanna%20[Slowed+Reverb]-%20Ekk%20Deewana%20Tha%20%20Textaudio%20Lyrics%20128%20kbps.mp3</item>
+        <item>https://princetechsoft.000webhostapp.com/Songs/Hindi/Ijazat%20[Slowed%20+%20Reverb]%20-%20Arijit%20Singh%20%20Meet%20Bros%20%20Indian%20Lofi%20Song%20C%20128%20kbps.mp3</item>
+        <item>https://princetechsoft.000webhostapp.com/Songs/Hindi/Ishq%20Sufiyana%20[Slowed+Reverb]-%20Sunidhi%20Chauhan%20%20Textaudio%20Lyrics%20128%20kbps.mp3</item>
+        <item>https://princetechsoft.000webhostapp.com/Songs/Hindi/Jeena%20Jeena%20-%20(%20Slowed%20+%20Reverb%20)%20%20Ear%20Candy%20128%20kbps.mp3</item>
+        <item>https://princetechsoft.000webhostapp.com/Songs/Hindi/Kal%20Ho%20Naa%20Ho%20[LoFi][Lyrics]-Harrlin%20Flip%20%20Textaudio%20Lyrics%20128%20kbps.mp3</item>
+        <item>https://princetechsoft.000webhostapp.com/Songs/Hindi/Kaun%20Tujhe%20[Lofi]-%20M.S.%20DHONI%20-THE%20UNTOLD%20STORY%20%20NEELESH%20%20Textaudio%20Ly%20128%20kbps.mp3</item>
+        <item>https://princetechsoft.000webhostapp.com/Songs/Hindi/Khamoshiyan%20-%20Arijit%20Singh%20(Slowed+Reverb+Lofi)%20Song%20%20Indian%20Lofi%20128%20kbps.mp3</item>
+        <item>https://princetechsoft.000webhostapp.com/Songs/Hindi/Kya%20mujhe%20pyar%20hai%20(Tum%20Kyu%20Chale%20Aate%20Ho)%20-%20Slow%20And%20Reverb%20128%20kbps.mp3</item>
+        <item>https://princetechsoft.000webhostapp.com/Songs/Hindi/Lag%20Jaa%20Gale%20[LoFi][Lyrics]-%20@p%20r%20a%20k%20h%20a%20r%20%20Textaudio%20Lyrics%20128%20kbps.mp3</item>
+        <item>https://princetechsoft.000webhostapp.com/Songs/Hindi/Main%20Rang%20Sharbaton%20Ka%20[Lofi]-@JAZ%20Scape%20Textaudio%20Lyrics%20128%20kbps.mp3</item>
+        <item>https://princetechsoft.000webhostapp.com/Songs/Hindi/Mast%20magan%20[Slowed+Reverb]-%20Arijit%20Singh%20%20Textaudio%20Lyrics%20128%20kbps.mp3</item>
+        <item>https://princetechsoft.000webhostapp.com/Songs/Hindi/Mera%20Mann%20[Lo-fi]-%20Nautanki%20Saala!%20@JAZ%20Scape%20Textaudio%20Lyrics%20128%20kbps.mp3</item>
+        <item>https://princetechsoft.000webhostapp.com/Songs/Hindi/Moh%20Moh%20Ke%20Dhaage%20[LoFi][Lyrics]-%20Papon(WORMONO)%20%20Textaudio%20Lyrics%20128%20kbps.mp3</item>
+        <item>https://princetechsoft.000webhostapp.com/Songs/Hindi/Phir%20le%20aya%20dil%20[LoFi][Lyrics]-Arijit%20Singh%20@p%20r%20a%20k%20h%20a%20r%20Textaudio%20L%20128%20kbps.mp3</item>
+        <item>https://princetechsoft.000webhostapp.com/Songs/Hindi/Piya%20O%20Re%20Piya%20[Slowed+Reverb]%20-%20Atif%20Aslam%20&amp;%20Shreya%20Ghoshal%20%20Textaudi%20128%20kbps.mp3</item>
+        <item>https://princetechsoft.000webhostapp.com/Songs/Hindi/Raataan%20Lambhiyan%20[Slowed%20+%20Reverb]%20-%20Jubin%20Nautiyal%20%20Asees%20Kaur%20%20Indi%20128%20kbps.mp3</item>
+        <item>https://princetechsoft.000webhostapp.com/Songs/Hindi/Ranjha%20[Lo-fi]-%20Shershaah%20%20HIMANXU%20%20Textaudio%20Lyrics%20128%20kbps.mp3</item>
+        <item>https://princetechsoft.000webhostapp.com/Songs/Hindi/Saibo%20[Slowed+Reverb]-%20Shor%20In%20The%20City%20%20Textaudio%20Lyrics%20128%20kbps.mp3</item>
+        <item>https://princetechsoft.000webhostapp.com/Songs/Hindi/Srivalli%20(%20Slowed%20And%20Reverb%20)%20%20Pushpa%20%20Javed%20Ali%20%20Nexus%20Music%20128%20kbps.mp3</item>
+        <item>https://princetechsoft.000webhostapp.com/Songs/Hindi/Subhanallah%20[Slowed+Reverb]-%20Shreeram%20%20Textaudio%20Lyrics%20128%20kbps.mp3</item>
+        <item>https://princetechsoft.000webhostapp.com/Songs/Hindi/Teri%20Mitti%20(75th%20Independence%20Day)%20Lofi%20Mashup%20%20@JAZ%20Scape%20Textaudio%20l%20128%20kbps.mp3</item>
+        <item>https://princetechsoft.000webhostapp.com/Songs/Hindi/Tose%20Naina%20Arijit%20Singh%20%20Slowed%20and%20Reverb%20Song%20Lofi%20128%20kbps.mp3</item>
+        <item>https://princetechsoft.000webhostapp.com/Songs/Hindi/Tujhe%20Kitna%20Chahne%20Lage%20(Slow%20+%20Reverb)%20%20Textaudio%20128%20kbps.mp3</item>
+        <item>https://princetechsoft.000webhostapp.com/Songs/Hindi/Tujhse%20Naraaz%20Nahin%20Zindagi%20[LoFi]-%20@p%20r%20a%20k%20h%20a%20r%20%20Textaudio%20Lyrics%20128%20kbps.mp3</item>
+        <item>https://princetechsoft.000webhostapp.com/Songs/Hindi/Tum%20Jo%20Aaye%20[Lo-fi]-%20Himanxu%20%20Textaudio%20Lyrics%20128%20kbps.mp3</item>
+        <item>https://princetechsoft.000webhostapp.com/Songs/Hindi/Tum%20Mile%20[Slowed+Reverb]%20-%20Javed%20Ali%20%20Textaudio%20Lyrics%20128%20kbps.mp3</item>
+
+    </string-array>
+
+
+
+
+
+
+
+</resources>

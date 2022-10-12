@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="BanglaSongName">
+        <item>Abar hasimukh</item>
+        <item>Valobasha terpor</item>
+        <item>Prithibita choto hote hote</item>
+        <item>Bindiya re bindiya</item>
+        <item>Deyale Deyale</item>
+        <item>Ekta chele</item>
+        <item>Srotoshini</item>
+        <item>Fire ay na</item>
+        <item>Ghum bhanga</item>
+        <item>Raat nirghum</item>
+        <item>Jao pakhi bolo tare</item>
+        <item>Jontrona</item>
+        <item>Kotodur</item>
+        <item>Lal shari</item>
+        <item>Likhi na ar toke niye</item>
+        <item>Majhe majhe tobo dekha pai</item>
+        <item>Tumi chaile bristy</item>
+        <item>Mombati</item>
+        <item>Monta obaddho</item>
+        <item>Aj raate kono rupkotha nei</item>
+        <item>Oniket Prantor</item>
+        <item>Oviman</item>
+        <item>Rupkothar jogote</item>
+        <item>She ki bose ache</item>
+        <item>Sesh kanna</item>
+        <item>She ki jane</item>
+        <item>Ei obelay</item>
+        <item>Bedona</item>
+        <item>Utsorgho</item>
+        <item>Tomar gore bosot kore kojona</item>
+        <item>Tomay hridmajhare</item>
+        <item>Tumi akasher buke</item>
+    </string-array>
+
+
+
+    <string-array name="BanglaSongSingersName">
+        <item>Shironamhin</item>
+        <item>Shayan Chowdhury Arnob</item>
+        <item>Goutam Chatterjee</item>
+        <item>Nur Nobi</item>
+        <item>Minar Rahman</item>
+        <item>Sahana</item>
+        <item>Shakib Ul Islam</item>
+        <item>Abdul Kader Tuhin</item>
+        <item>Minar Rahman</item>
+        <item>Habib Wahid</item>
+        <item>Chondona and Krisno Koli</item>
+        <item>Mohon Sharif</item>
+        <item>Tahsan Khan</item>
+        <item>Shohag</item>
+        <item>Shitom Ahmed</item>
+        <item>No Man</item>
+        <item>Minar Rahman</item>
+        <item>Mahib Ahsan ft. Anika</item>
+        <item>Mahtim Shakib</item>
+        <item>Saadi Chowdhury</item>
+        <item>Ahmed Souren</item>
+        <item>Tanveer Evan</item>
+        <item>Abanti and Rehan</item>
+        <item>Arnob</item>
+        <item>Tanveer Evan and Benazir</item>
+        <item>Raz Dee</item>
+        <item>Shironamhin</item>
+        <item>Shunno</item>
+        <item>Tasnif Zaman</item>
+        <item>Anirban Sur</item>
+        <item>Faruk Arafat</item>
+        <item>Khalid</item>
+
+    </string-array>
+
+
+    <string-array name="BanglaSongUrl">
+
+        <item>https://princetechsoft.000webhostapp.com/Songs/Bangla/Abar%20Hashimukh%20-%20Shironamhin%20(Lofi%20Remix)%20128%20kbps.mp3</item>
+        <item>https://princetechsoft.000webhostapp.com/Songs/Bangla/Bhalobasha%20Tarpor%20-%20Arnob%20(Lofi%20Remix)%20128%20kbps.mp3</item>
+        <item>https://princetechsoft.000webhostapp.com/Songs/Bangla/Bhebe%20Dekhecho%20Ki%20-%20Mohiner%20Ghoraguli%20(Lofi%20Remix)%20128%20kbps.mp3</item>
+        <item>https://princetechsoft.000webhostapp.com/Songs/Bangla/Bindiya%20Re%20Bindiya%20NUR%20128%20kbps.mp3</item>
+        <item>https://princetechsoft.000webhostapp.com/Songs/Bangla/Deyale%20Deyale(Lyrics)%20%20Minar%20Rahman%20Bangla%20Song%20128%20kbps.mp3</item>
+        <item>https://princetechsoft.000webhostapp.com/Songs/Bangla/Ekta%20Chele%20By%20Sahana%20Bajpaie%20(Lofi%20Remix)%20128%20kbps.mp3</item>
+        <item>https://princetechsoft.000webhostapp.com/Songs/Bangla/Encore%20-%20Srotoshinni%20%20Official%20Audio%20128%20kbps.mp3</item>
+        <item>https://princetechsoft.000webhostapp.com/Songs/Bangla/FIRE%20AY%20NA%20%20Official%20Lyrical%20Video%20%20Eemce%20Mihad%20%20Tuhin%20%20Ba%20128%20kbps.mp3</item>
+        <item>https://princetechsoft.000webhostapp.com/Songs/Bangla/Ghum%20Bhanga%20(Lyrics)%20%20Minar%20Rahman%20128%20kbps.mp3</item>
+        <item>https://princetechsoft.000webhostapp.com/Songs/Bangla/Habib%20Wahid%20-%20Raat%20Nirghum%20(Lofi%20Remix)%20128%20kbps.mp3</item>
+        <item>https://princetechsoft.000webhostapp.com/Songs/Bangla/Jao%20Pakhi%20Bolo%20Tare%20(Lofi%20Remix)%20128%20kbps.mp3</item>
+        <item>https://princetechsoft.000webhostapp.com/Songs/Bangla/Jontrona%20-%20Mohon%20Sharif%20(LofiChillhop%20Remix)%20128%20kbps.mp3</item>
+        <item>https://princetechsoft.000webhostapp.com/Songs/Bangla/Kotodur%20%20Tahsan%20%20Lofi%20Remix%20%20Lyrics%20Video%20128%20kbps.mp3</item>
+        <item>https://princetechsoft.000webhostapp.com/Songs/Bangla/Lal%20Shari%20Lofi%20Remix%20%20Bangla%20Song%20%20Sohag%20%20Sakib%20128%20kbps.mp3</item>
+        <item>https://princetechsoft.000webhostapp.com/Songs/Bangla/Likhi%20Na%20Ar%20Toke%20Niye%20Kobita(Lyrics)%20-Shitom%20Ahmed%20128%20kbps.mp3</item>
+        <item>https://princetechsoft.000webhostapp.com/Songs/Bangla/Majhe%20Majhe%20Tobo%20Dekha%20Pai%20(Lofi%20Remix)%20Mashuq%20Haque%20%C3%97%20NO%20MAN%20128%20kbps.mp3</item>
+        <item>https://princetechsoft.000webhostapp.com/Songs/Bangla/Minar%20Rahman%20-%20Tumi%20Chaile%20Bristi%20(Lofi%20Remix)%20128%20kbps.mp3</item>
+        <item>https://princetechsoft.000webhostapp.com/Songs/Bangla/Mombati(Lyrics)%20%20Anika%20%20Mohon%20Sharif%20128%20kbps.mp3</item>
+        <item>https://princetechsoft.000webhostapp.com/Songs/Bangla/Monta%20Obaddho(Lyrics)%20%20Lofi%20Remix%20%20Mahtim%20Shakib%20%20Prottoy%20Heron%20%20Mahim%20128%20kbps.mp3</item>
+        <item>https://princetechsoft.000webhostapp.com/Songs/Bangla/Old%20School%20-%20Aaj%20Raate%20Kono%20Rupkotha%20Nei%20(Lofi%20Remix)%20128%20kbps.mp3</item>
+        <item>https://princetechsoft.000webhostapp.com/Songs/Bangla/Oniket%20Prantor%20(Lofi%20Remix)%20%20Lyrics%20Video%20128%20kbps.mp3</item>
+        <item>https://princetechsoft.000webhostapp.com/Songs/Bangla/Oviman%20%20Lofi%20Tanveer%20Evan%20Lofi%20%20Piran%20Khan%20%20Best%20Friend%203%20128%20kbps.mp3</item>
+        <item>https://princetechsoft.000webhostapp.com/Songs/Bangla/Rupkothar%20Jogote(Lyrics)%20%20Networker%20baire%20%20Chorki%20128%20kbps.mp3</item>
+        <item>https://princetechsoft.000webhostapp.com/Songs/Bangla/She%20Je%20Boshe%20Ache%20(Lofi%20Remix)%20%20Arnob%20%20Rishi%20Panda%20%20Mashuq%20Haque%20128%20kbps.mp3</item>
+        <item>https://princetechsoft.000webhostapp.com/Songs/Bangla/Shesh%20Kanna(Lyrics)%20%20Lofi%20Remix%20Tanveer%20Evan%20128%20kbps.mp3</item>
+        <item>https://princetechsoft.000webhostapp.com/Songs/Bangla/Shey%20Ki%20Jane%20-%20Lofi%20Remix%20%20Piran%20Khan%20%20Raz%20Dee%20%20New%20Bangla%20Song%20128%20kbps.mp3</item>
+        <item>https://princetechsoft.000webhostapp.com/Songs/Bangla/Shironamhin%20-%20Ei%20Obelay%20Lofi%20Remix%20128%20kbps.mp3</item>
+        <item>https://princetechsoft.000webhostapp.com/Songs/Bangla/Shunno%20-%20Bedona%20(Lofi%20Remix)%20128%20kbps.mp3</item>
+        <item>https://princetechsoft.000webhostapp.com/Songs/Bangla/Tasnif%20-%20Utshorgo%20(Lofi%20Remix)%20128%20kbps.mp3</item>
+        <item>https://princetechsoft.000webhostapp.com/Songs/Bangla/Tomar%20Ghore%20Bosot%20Kore%20-%20Anirban%20Sur%20(Lofi%20Remix)%20128%20kbps.mp3</item>
+        <item>https://princetechsoft.000webhostapp.com/Songs/Bangla/Tomay%20Hrid%20Majhare%20Rakhbo%20(Lofi%20Remix)%20%20Ahmed%20Shakib%20%20Bangla%20New%20Song%20%20128%20kbps.mp3</item>
+        <item>https://princetechsoft.000webhostapp.com/Songs/Bangla/Tumi%20Akasher%20Buke%20Bishalotar%20Upoma%20128%20kbps.mp3</item>
+
+    </string-array>
+
+
+
+</resources>
